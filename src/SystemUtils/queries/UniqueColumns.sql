@@ -60,4 +60,3 @@ INNER JOIN sys.tables AS t
     ON uc.[object_id] = t.[object_id]
 INNER JOIN sys.schemas AS s
     ON t.[schema_id] = s.[schema_id]
-;

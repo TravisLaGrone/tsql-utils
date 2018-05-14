@@ -1,4 +1,4 @@
-﻿CREATE PROCEDURE addOrUpdateExtendedProperties (
+﻿CREATE PROCEDURE #addOrUpdateExtendedProperties (
 	@extendedProperties ExtendedProperty NOT NULL
 )
 WITH SCHEMABINDING

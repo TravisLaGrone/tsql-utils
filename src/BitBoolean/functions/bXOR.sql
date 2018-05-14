@@ -1,4 +1,4 @@
-﻿CREATE FUNCTION XOR_bit (
+﻿CREATE FUNCTION bXOR (
 	  @a bit NOT NULL
 	, @b bit NOT NULL
 )

@@ -1,0 +1,13 @@
+﻿CREATE FUNCTION bNONE (
+	@values Array1D NOT NULL
+)
+RETURNS bit
+WITH SCHEMABINDING
+AS BEGIN
+	DECLARE @none bit = 1;
+	IF EXISTS(SELECT * FROM @values WHERE [value] IS NULL)
+		SET @none = NULL;
+	ELSE IF EXISTS(SELECT * FROM @values WHERE [value] = 1)
+		SET @none = 0;
+	RETURN @none;
+END;

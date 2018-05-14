@@ -1,4 +1,4 @@
-﻿CREATE PROCEDURE addOrUpdateExtendedProperty (
+﻿CREATE PROCEDURE #addOrUpdateExtendedProperty (
 	  @name			sysname			NOT NULL = "MS_Description"
 	, @value		sql_variant		NULL
 	, @level0type	varchar(128)	NULL

@@ -1,4 +1,4 @@
-﻿CREATE FUNCTION noneNull (
+﻿CREATE FUNCTION bNONENULL (
 	@values Array1D NOT NULL	
 )
 RETURNS bit

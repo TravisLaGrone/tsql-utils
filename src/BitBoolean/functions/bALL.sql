@@ -1,0 +1,13 @@
+﻿CREATE FUNCTION bALL (
+	@values Array1D NOT NULL
+)
+RETURNS bit
+WITH SCHEMABINDING
+AS BEGIN
+	DECLARE @all bit = 1;
+	IF EXISTS(SELECT * FROM @values WHERE [value] IS NULL)
+		SET @all = NULL;
+	ELSE IF EXISTS(SELECT * FROM @values WHERE [value] = 0)
+		SET @all = 0;
+	RETURN @all;
+END;
