@@ -25,12 +25,4 @@ FROM sys.index_columns AS ic
             WHERE _s.name <> 'sys'
         ) AS s
         ON  o.schema_id = s.schema_id
-    INNER JOIN (  -- filter for multi-column indexes
-            SELECT _ic.object_id, _ic.index_id
-            FROM sys.index_columns AS _ic
-            GROUP BY _ic.object_id, _ic.index_id
-            HAVING COUNT(_ic.column_id) > 1
-        ) AS sci
-        ON  ic.object_id = sci.object_id
-        AND ic.index_id = sci.index_id
 ORDER BY s.name, o.name, i.name, c.name
