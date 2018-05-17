@@ -9,20 +9,6 @@ SELECT
     o_ref.name [referenced_object_name],
     c_ref.name [referenced_column_name]
 FROM sys.foreign_key_columns AS fkc
-    INNER JOIN (  -- filter for multi-column foreign keys
-            SELECT _fkc.constraint_object_id
-            FROM sys.foreign_key_columns AS _fkc
-            GROUP BY _fkc.constraint_object_id
-            HAVING COUNT(_fkc.constraint_column_id) = 1
-        ) AS mcfk
-        ON  mcfk.constraint_object_id = fkc.constraint_object_id
-    INNER JOIN (  -- filter for enabled foreign keys
-            SELECT _fk.object_id
-            FROM sys.foreign_keys AS _fk
-            WHERE   _fk.is_disabled = 0
-                AND _fk.is_not_trusted = 0
-        ) AS efk
-        ON  efk.object_id = mcfk.constraint_object_id
     INNER JOIN sys.objects AS o_con  -- to name foreign key
         ON  o_con.object_id = fkc.constraint_object_id
     INNER JOIN sys.schemas AS s_con  -- to name foreign key schema
