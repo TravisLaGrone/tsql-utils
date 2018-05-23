@@ -4,6 +4,8 @@ SELECT
     i.name [index_name],
     c.name [column_name]
 FROM sys.index_columns AS ic
+    INNER JOIN sys.indexes AS i
+        ON i.index_id = ic.index_id
     INNER JOIN sys.columns AS c
         ON  ic.object_id = c.object_id
         AND ic.column_id = c.column_id
