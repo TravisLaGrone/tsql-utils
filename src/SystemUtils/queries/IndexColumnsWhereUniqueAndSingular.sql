@@ -1,8 +1,8 @@
 SELECT
-    s.name [schema_name],
-    o.name [object_name],
-    i.name [index_name],
-    c.name [column_name],
+    s.[name] [schema_name],
+    o.[name] [object_name],
+    i.[name] [index_name],
+    c.[name] [column_name],
     o.type_desc [object_type]
 FROM sys.index_columns AS ic
     INNER JOIN sys.columns AS c
@@ -14,6 +14,7 @@ FROM sys.index_columns AS ic
             WHERE   i.is_unique = 1
                 AND i.has_filter = 0
                 AND i.is_disabled = 0
+                AND i.ignore_dup_key = 0
         ) AS i
         ON  ic.object_id = i.object_id
         AND ic.index_id = i.index_id
@@ -22,7 +23,7 @@ FROM sys.index_columns AS ic
     INNER JOIN (  -- non 'sys' schema
             SELECT *
             FROM sys.schemas AS _s
-            WHERE _s.name <> 'sys'
+            WHERE _s.[name] <> 'sys'
         ) AS s
         ON  o.schema_id = s.schema_id
     INNER JOIN (  -- filter for single-column indexes
@@ -33,4 +34,8 @@ FROM sys.index_columns AS ic
         ) AS sci
         ON  ic.object_id = sci.object_id
         AND ic.index_id = sci.index_id
-ORDER BY s.name, o.name, i.name, c.name
+ORDER BY
+    s.[name],
+    o.[name],
+    i.[name],
+    c.[name]
