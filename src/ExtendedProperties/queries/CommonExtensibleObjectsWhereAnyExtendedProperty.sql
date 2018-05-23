@@ -244,7 +244,7 @@ SELECT eo.*
         ELSE 'DATABASE'
     END AS [basetype]
 FROM [extensible_objects] AS eo
-WHERE NOT EXISTS(
+WHERE EXISTS(
     SELECT *
     FROM [extended_properties] AS ep
     WHERE   eo.level0type = ep.level0type
@@ -254,3 +254,10 @@ WHERE NOT EXISTS(
         AND eo.level2type = ep.level2type
         AND eo.level2name = ep.level2name
 )
+ORDER BY
+    eo.level0type,
+    eo.level0name,
+    eo.level1type,
+    eo.level1name,
+    eo.level2type,
+    eo.level2name

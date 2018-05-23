@@ -91,3 +91,10 @@ FROM [sys].[parameters]        AS [params]
     INNER JOIN [sys].[objects] AS [objs]
         ON [params].[object_id] = [objs].[object_id]
 WHERE [objs].[type] IN ('FN', 'IF', 'TF', 'P')
+ORDER BY
+    eo.level0type,
+    eo.level0name,
+    eo.level1type,
+    eo.level1name,
+    eo.level2type,
+    eo.level2name
