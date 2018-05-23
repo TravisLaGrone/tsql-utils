@@ -248,12 +248,12 @@ SELECT
     END AS [basetype]
 FROM [extensible_objects] AS eo
 LEFT JOIN [extended_properties] AS ep
-    ON  ep.level0type = eo.level0type
-    AND ep.level0name = eo.level0name
-    AND ep.level1type = eo.level1type
-    AND ep.level1name = eo.level1name
-    AND ep.level2type = eo.level2type
-    AND ep.level2name = eo.level2name
+    ON  (ep.level0type = eo.level0type OR (ep.level0type IS NULL AND eo.level0type IS NULL))
+    AND (ep.level0name = eo.level0name OR (ep.level0name IS NULL AND eo.level0name IS NULL))
+    AND (ep.level1type = eo.level1type OR (ep.level1type IS NULL AND eo.level1type IS NULL))
+    AND (ep.level1name = eo.level1name OR (ep.level1name IS NULL AND eo.level1name IS NULL))
+    AND (ep.level2type = eo.level2type OR (ep.level2type IS NULL AND eo.level2type IS NULL))
+    AND (ep.level2name = eo.level2name OR (ep.level2name IS NULL AND eo.level2name IS NULL))
 ORDER BY
     eo.level0type,
     eo.level0name,
