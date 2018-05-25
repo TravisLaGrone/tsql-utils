@@ -1,0 +1,13 @@
+[sys].[triggers].[name],
+[sys].[triggers].[object_id],
+[sys].[triggers].[parent_class],
+[sys].[triggers].[parent_class_desc],
+[sys].[triggers].[parent_id],
+[sys].[triggers].[type],
+[sys].[triggers].[type_desc],
+[sys].[triggers].[create_date],
+[sys].[triggers].[modify_date],
+[sys].[triggers].[is_ms_shipped],
+[sys].[triggers].[is_disabled],
+[sys].[triggers].[is_not_for_replication],
+[sys].[triggers].[is_instead_of_trigger]
