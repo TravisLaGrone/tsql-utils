@@ -2,7 +2,11 @@ SELECT
     s.name [schema_name],
     o.name [object_name],
     i.name [index_name],
-    c.name [column_name]
+    c.name [column_name],
+    ic.[key_ordinal],
+    ic.[partition_ordinal],
+    ic.[is_descending_key],
+    ic.[is_included_column]
 FROM sys.index_columns AS ic
     INNER JOIN sys.indexes AS i
         ON i.index_id = ic.index_id
