@@ -1,3 +1,15 @@
+/* NOTE:
+ *     Nullity of r"referenced_(server|database|schema)_name" *does* indicate whether it is specified in the
+ * reference, and not whether the r"referencing_(server|database|schema)_name" is the same.  If the referenced
+ * is null, then it must be the same because it is not specified in the reference.  However, if the reference
+ * is non-null, then it may or may not be the same, but it is definitely explicitly specified in the reference.
+ */
+/* NOTE:
+ *     It is **NOT** necessarily true that for every entity for which there exists a row with a non-null minor
+ * name, there also exists a row with a null minor name, or vice-versa.  It appears that a reference is
+ * considered to be a lexical identification of an entity or a minor, rather than a logical reference to or
+ * physical access of an entity or its minor as would be implied by a lexical T-SQL definition.
+ */
 WITH
     ref_obj AS (
         SELECT
@@ -14,7 +26,7 @@ WITH
             'OBJECT' AS referencing_class_desc,
             obj.[type_desc] AS referencing_object_type_desc,
             CASE WHEN ref.referencing_minor_id = 0 THEN NULL ELSE 'COLUMN' END AS referencing_minor_class_desc,
-            ref.referenced_class_desc AS referenced_class_desc,
+            ref.referenced_class_desc,
             ref.referenced_id,  -- temporary placeholder to compute [referenced_object_type_desc] later
             ref.is_caller_dependent,
             ref.is_ambiguous,
@@ -47,7 +59,7 @@ WITH
             'DATABASE_DDL_TRIGGER' AS referencing_class_desc,
             trg.[type_desc] AS referencing_object_type_desc,
             NULL AS referencing_minor_class_desc,
-            ref.referenced_class_desc AS referenced_class_desc,
+            ref.referenced_class_desc,
             ref.referenced_id,  -- temporary placeholder to compute [referenced_object_type_desc] later
             ref.is_caller_dependent,
             ref.is_ambiguous,
@@ -76,7 +88,7 @@ WITH
             'SERVER_DDL_TRIGGER' AS referencing_class_desc,
             trg.[type_desc] AS referencing_object_type_desc,
             NULL AS referencing_minor_class_desc,
-            ref.referenced_class_desc AS referenced_class_desc,
+            ref.referenced_class_desc,
             ref.referenced_id,  -- temporary placeholder to compute [referenced_object_type_desc] later
             ref.is_caller_dependent,
             ref.is_ambiguous,
@@ -108,11 +120,11 @@ SELECT
     ref.referenced_entity_name,
     ref.referenced_minor_name,
     ref.referencing_class_desc,
-    ref.referencing_object_type_desc,
     ref.referencing_minor_class_desc,
-    ref.referenced_class_desc,
-    CASE WHEN ref.referenced_class_desc = 'OBJECT_OR_COLUMN' THEN ref_obj.[type_desc] ELSE NULL END AS referenced_object_type_desc,
-    CASE WHEN ref.referenced_minor_name IS NOT NULL          THEN 'COLUMN'            ELSE NULL END AS referenced_minor_class_desc,
+    CASE WHEN ref.referenced_class_desc = 'OBJECT_OR_COLUMN' THEN 'OBJECT'            ELSE ref.referenced_class_desc END AS referenced_class_desc,
+    CASE WHEN ref.referenced_minor_name IS NOT NULL          THEN 'COLUMN'            ELSE NULL                      END AS referenced_minor_class_desc,
+    ref.referencing_object_type_desc,
+    CASE WHEN ref.referenced_class_desc = 'OBJECT_OR_COLUMN' THEN ref_obj.[type_desc] ELSE NULL                      END AS referenced_object_type_desc,
     ref.is_caller_dependent,
     ref.is_ambiguous,
     ref.is_selected,
