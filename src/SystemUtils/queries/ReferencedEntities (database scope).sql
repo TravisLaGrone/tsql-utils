@@ -10,6 +10,8 @@
  * considered to be a lexical identification of an entity or a minor, rather than a logical reference to or
  * physical access of an entity or its minor as would be implied by a lexical T-SQL definition.
  */
+/* NOTE:  Referenced entities include all classes except triggers.
+ */
 WITH
     ref_obj AS (
         SELECT
