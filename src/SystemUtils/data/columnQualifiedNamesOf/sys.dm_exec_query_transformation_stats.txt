@@ -1,0 +1,6 @@
+sys.dm_exec_query_transformation_stats.built_substitute
+sys.dm_exec_query_transformation_stats.name
+sys.dm_exec_query_transformation_stats.promise_avg
+sys.dm_exec_query_transformation_stats.promise_total
+sys.dm_exec_query_transformation_stats.promised
+sys.dm_exec_query_transformation_stats.succeeded

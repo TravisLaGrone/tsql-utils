@@ -1,0 +1,8 @@
+sys.dm_os_child_instances.heart_beat
+sys.dm_os_child_instances.instance_name
+sys.dm_os_child_instances.instance_pipe_name
+sys.dm_os_child_instances.OS_process_creation_date
+sys.dm_os_child_instances.OS_process_id
+sys.dm_os_child_instances.owning_principal_name
+sys.dm_os_child_instances.owning_principal_sid
+sys.dm_os_child_instances.owning_principal_sid_binary

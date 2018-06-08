@@ -1,0 +1,14 @@
+sys.sql_logins.create_date
+sys.sql_logins.credential_id
+sys.sql_logins.default_database_name
+sys.sql_logins.default_language_name
+sys.sql_logins.is_disabled
+sys.sql_logins.is_expiration_checked
+sys.sql_logins.is_policy_checked
+sys.sql_logins.modify_date
+sys.sql_logins.name
+sys.sql_logins.password_hash
+sys.sql_logins.principal_id
+sys.sql_logins.sid
+sys.sql_logins.type
+sys.sql_logins.type_desc

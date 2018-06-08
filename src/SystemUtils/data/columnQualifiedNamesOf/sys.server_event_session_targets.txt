@@ -1,0 +1,5 @@
+sys.server_event_session_targets.event_session_id
+sys.server_event_session_targets.module
+sys.server_event_session_targets.name
+sys.server_event_session_targets.package
+sys.server_event_session_targets.target_id

@@ -1,0 +1,3 @@
+sys.parameter_type_usages.object_id
+sys.parameter_type_usages.parameter_id
+sys.parameter_type_usages.user_type_id

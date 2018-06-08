@@ -1,0 +1,2 @@
+sys.xml_schema_wildcard_namespaces.namespace
+sys.xml_schema_wildcard_namespaces.xml_component_id

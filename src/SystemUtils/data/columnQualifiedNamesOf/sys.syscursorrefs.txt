@@ -1,0 +1,3 @@
+sys.syscursorrefs.cursor_handl
+sys.syscursorrefs.cursor_scope
+sys.syscursorrefs.reference_name

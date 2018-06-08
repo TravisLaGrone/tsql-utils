@@ -1,0 +1,6 @@
+sys.xml_schema_collections.create_date
+sys.xml_schema_collections.modify_date
+sys.xml_schema_collections.name
+sys.xml_schema_collections.principal_id
+sys.xml_schema_collections.schema_id
+sys.xml_schema_collections.xml_collection_id

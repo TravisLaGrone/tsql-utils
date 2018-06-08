@@ -1,0 +1,3 @@
+sys.dm_exec_query_optimizer_info.counter
+sys.dm_exec_query_optimizer_info.occurrence
+sys.dm_exec_query_optimizer_info.value

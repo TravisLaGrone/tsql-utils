@@ -1,0 +1,3 @@
+sys.dm_audit_class_type_map.class_type
+sys.dm_audit_class_type_map.class_type_desc
+sys.dm_audit_class_type_map.securable_class_desc

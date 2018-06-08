@@ -1,0 +1,4 @@
+sys.dm_xe_session_events.event_name
+sys.dm_xe_session_events.event_package_guid
+sys.dm_xe_session_events.event_predicate
+sys.dm_xe_session_events.event_session_address

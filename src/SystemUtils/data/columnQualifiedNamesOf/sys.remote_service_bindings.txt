@@ -1,0 +1,7 @@
+sys.remote_service_bindings.is_anonymous_on
+sys.remote_service_bindings.name
+sys.remote_service_bindings.principal_id
+sys.remote_service_bindings.remote_principal_id
+sys.remote_service_bindings.remote_service_binding_id
+sys.remote_service_bindings.remote_service_name
+sys.remote_service_bindings.service_contract_id

@@ -1,0 +1,10 @@
+sys.dm_tran_version_store.database_id
+sys.dm_tran_version_store.min_length_in_bytes
+sys.dm_tran_version_store.record_image_first_part
+sys.dm_tran_version_store.record_image_second_part
+sys.dm_tran_version_store.record_length_first_part_in_bytes
+sys.dm_tran_version_store.record_length_second_part_in_bytes
+sys.dm_tran_version_store.rowset_id
+sys.dm_tran_version_store.status
+sys.dm_tran_version_store.transaction_sequence_num
+sys.dm_tran_version_store.version_sequence_num

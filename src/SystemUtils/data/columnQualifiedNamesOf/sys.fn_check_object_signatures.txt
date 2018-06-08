@@ -1,0 +1,4 @@
+sys.fn_check_object_signatures.entity_id
+sys.fn_check_object_signatures.is_signature_valid
+sys.fn_check_object_signatures.is_signed
+sys.fn_check_object_signatures.type

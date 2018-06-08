@@ -1,0 +1,9 @@
+sys.partition_functions.boundary_value_on_right
+sys.partition_functions.create_date
+sys.partition_functions.fanout
+sys.partition_functions.function_id
+sys.partition_functions.is_system
+sys.partition_functions.modify_date
+sys.partition_functions.name
+sys.partition_functions.type
+sys.partition_functions.type_desc

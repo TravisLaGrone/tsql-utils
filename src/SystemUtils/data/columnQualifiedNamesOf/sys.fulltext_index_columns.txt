@@ -1,0 +1,5 @@
+sys.fulltext_index_columns.column_id
+sys.fulltext_index_columns.language_id
+sys.fulltext_index_columns.object_id
+sys.fulltext_index_columns.statistical_semantics
+sys.fulltext_index_columns.type_column_id

@@ -1,0 +1,4 @@
+sys.dm_os_server_diagnostics_log_configurations.is_enabled
+sys.dm_os_server_diagnostics_log_configurations.max_files
+sys.dm_os_server_diagnostics_log_configurations.max_size
+sys.dm_os_server_diagnostics_log_configurations.path

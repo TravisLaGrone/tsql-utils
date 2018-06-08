@@ -1,0 +1,3 @@
+sys.column_type_usages.column_id
+sys.column_type_usages.object_id
+sys.column_type_usages.user_type_id

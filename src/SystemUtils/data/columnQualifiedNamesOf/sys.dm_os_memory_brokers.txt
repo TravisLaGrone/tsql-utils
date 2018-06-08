@@ -1,0 +1,9 @@
+sys.dm_os_memory_brokers.allocations_kb
+sys.dm_os_memory_brokers.allocations_kb_per_sec
+sys.dm_os_memory_brokers.future_allocations_kb
+sys.dm_os_memory_brokers.last_notification
+sys.dm_os_memory_brokers.memory_broker_type
+sys.dm_os_memory_brokers.overall_limit_kb
+sys.dm_os_memory_brokers.pool_id
+sys.dm_os_memory_brokers.predicted_allocations_kb
+sys.dm_os_memory_brokers.target_allocations_kb

@@ -1,0 +1,7 @@
+sys.dm_os_memory_pools.free_entries_count
+sys.dm_os_memory_pools.max_free_entries_count
+sys.dm_os_memory_pools.memory_pool_address
+sys.dm_os_memory_pools.name
+sys.dm_os_memory_pools.pool_id
+sys.dm_os_memory_pools.removed_in_all_rounds_count
+sys.dm_os_memory_pools.type

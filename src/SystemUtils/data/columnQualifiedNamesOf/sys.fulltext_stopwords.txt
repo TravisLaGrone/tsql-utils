@@ -1,0 +1,4 @@
+sys.fulltext_stopwords.language
+sys.fulltext_stopwords.language_id
+sys.fulltext_stopwords.stoplist_id
+sys.fulltext_stopwords.stopword

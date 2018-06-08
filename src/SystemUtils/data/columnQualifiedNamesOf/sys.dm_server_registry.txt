@@ -1,0 +1,3 @@
+sys.dm_server_registry.registry_key
+sys.dm_server_registry.value_data
+sys.dm_server_registry.value_name

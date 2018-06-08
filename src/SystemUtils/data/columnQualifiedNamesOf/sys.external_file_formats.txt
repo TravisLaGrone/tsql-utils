@@ -1,0 +1,11 @@
+sys.external_file_formats.data_compression
+sys.external_file_formats.date_format
+sys.external_file_formats.encoding
+sys.external_file_formats.field_terminator
+sys.external_file_formats.file_format_id
+sys.external_file_formats.format_type
+sys.external_file_formats.name
+sys.external_file_formats.row_terminator
+sys.external_file_formats.serde_method
+sys.external_file_formats.string_delimiter
+sys.external_file_formats.use_type_default

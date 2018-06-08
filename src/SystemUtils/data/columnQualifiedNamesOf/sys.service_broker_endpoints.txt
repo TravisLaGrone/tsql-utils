@@ -1,0 +1,17 @@
+sys.service_broker_endpoints.certificate_id
+sys.service_broker_endpoints.connection_auth
+sys.service_broker_endpoints.connection_auth_desc
+sys.service_broker_endpoints.encryption_algorithm
+sys.service_broker_endpoints.encryption_algorithm_desc
+sys.service_broker_endpoints.endpoint_id
+sys.service_broker_endpoints.is_admin_endpoint
+sys.service_broker_endpoints.is_message_forwarding_enabled
+sys.service_broker_endpoints.message_forwarding_size
+sys.service_broker_endpoints.name
+sys.service_broker_endpoints.principal_id
+sys.service_broker_endpoints.protocol
+sys.service_broker_endpoints.protocol_desc
+sys.service_broker_endpoints.state
+sys.service_broker_endpoints.state_desc
+sys.service_broker_endpoints.type
+sys.service_broker_endpoints.type_desc

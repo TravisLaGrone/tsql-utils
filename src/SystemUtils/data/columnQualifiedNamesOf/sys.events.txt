@@ -1,0 +1,6 @@
+sys.events.event_group_type
+sys.events.event_group_type_desc
+sys.events.is_trigger_event
+sys.events.object_id
+sys.events.type
+sys.events.type_desc

@@ -1,0 +1,10 @@
+sys.dm_exec_cached_plans.bucketid
+sys.dm_exec_cached_plans.cacheobjtype
+sys.dm_exec_cached_plans.memory_object_address
+sys.dm_exec_cached_plans.objtype
+sys.dm_exec_cached_plans.parent_plan_handle
+sys.dm_exec_cached_plans.plan_handle
+sys.dm_exec_cached_plans.pool_id
+sys.dm_exec_cached_plans.refcounts
+sys.dm_exec_cached_plans.size_in_bytes
+sys.dm_exec_cached_plans.usecounts

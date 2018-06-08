@@ -1,0 +1,3 @@
+sys.fulltext_index_catalog_usages.fulltext_catalog_id
+sys.fulltext_index_catalog_usages.index_id
+sys.fulltext_index_catalog_usages.object_id

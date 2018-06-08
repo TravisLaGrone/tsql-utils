@@ -1,0 +1,2 @@
+sys.dm_db_persisted_sku_features.feature_id
+sys.dm_db_persisted_sku_features.feature_name

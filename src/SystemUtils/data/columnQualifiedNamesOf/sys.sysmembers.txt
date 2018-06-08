@@ -1,0 +1,2 @@
+sys.sysmembers.groupuid
+sys.sysmembers.memberuid

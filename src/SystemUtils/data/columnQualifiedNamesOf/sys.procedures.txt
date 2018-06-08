@@ -1,0 +1,16 @@
+sys.procedures.create_date
+sys.procedures.is_auto_executed
+sys.procedures.is_execution_replicated
+sys.procedures.is_ms_shipped
+sys.procedures.is_published
+sys.procedures.is_repl_serializable_only
+sys.procedures.is_schema_published
+sys.procedures.modify_date
+sys.procedures.name
+sys.procedures.object_id
+sys.procedures.parent_object_id
+sys.procedures.principal_id
+sys.procedures.schema_id
+sys.procedures.skips_repl_constraints
+sys.procedures.type
+sys.procedures.type_desc

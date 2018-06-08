@@ -1,0 +1,5 @@
+sys.server_sql_modules.definition
+sys.server_sql_modules.execute_as_principal_id
+sys.server_sql_modules.object_id
+sys.server_sql_modules.uses_ansi_nulls
+sys.server_sql_modules.uses_quoted_identifier

@@ -1,0 +1,4 @@
+sys.dm_logpoolmgr_respoolsize.database_id
+sys.dm_logpoolmgr_respoolsize.recovery_unit_id
+sys.dm_logpoolmgr_respoolsize.resource_pool_id
+sys.dm_logpoolmgr_respoolsize.size

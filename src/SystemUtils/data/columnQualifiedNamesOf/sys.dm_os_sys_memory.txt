@@ -1,0 +1,10 @@
+sys.dm_os_sys_memory.available_page_file_kb
+sys.dm_os_sys_memory.available_physical_memory_kb
+sys.dm_os_sys_memory.kernel_nonpaged_pool_kb
+sys.dm_os_sys_memory.kernel_paged_pool_kb
+sys.dm_os_sys_memory.system_cache_kb
+sys.dm_os_sys_memory.system_high_memory_signal_state
+sys.dm_os_sys_memory.system_low_memory_signal_state
+sys.dm_os_sys_memory.system_memory_state_desc
+sys.dm_os_sys_memory.total_page_file_kb
+sys.dm_os_sys_memory.total_physical_memory_kb

@@ -1,0 +1,9 @@
+sys.dm_tran_session_transactions.enlist_count
+sys.dm_tran_session_transactions.is_bound
+sys.dm_tran_session_transactions.is_enlisted
+sys.dm_tran_session_transactions.is_local
+sys.dm_tran_session_transactions.is_user_transaction
+sys.dm_tran_session_transactions.open_transaction_count
+sys.dm_tran_session_transactions.session_id
+sys.dm_tran_session_transactions.transaction_descriptor
+sys.dm_tran_session_transactions.transaction_id

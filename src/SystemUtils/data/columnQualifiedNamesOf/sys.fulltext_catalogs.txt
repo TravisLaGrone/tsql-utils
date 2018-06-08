@@ -1,0 +1,9 @@
+sys.fulltext_catalogs.data_space_id
+sys.fulltext_catalogs.file_id
+sys.fulltext_catalogs.fulltext_catalog_id
+sys.fulltext_catalogs.is_accent_sensitivity_on
+sys.fulltext_catalogs.is_default
+sys.fulltext_catalogs.is_importing
+sys.fulltext_catalogs.name
+sys.fulltext_catalogs.path
+sys.fulltext_catalogs.principal_id

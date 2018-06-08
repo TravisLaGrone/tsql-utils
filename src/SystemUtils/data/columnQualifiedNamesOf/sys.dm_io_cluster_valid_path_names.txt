@@ -1,0 +1,3 @@
+sys.dm_io_cluster_valid_path_names.cluster_owner_node
+sys.dm_io_cluster_valid_path_names.is_cluster_shared_volume
+sys.dm_io_cluster_valid_path_names.path_name

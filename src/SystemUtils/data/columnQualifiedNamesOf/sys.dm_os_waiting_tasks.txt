@@ -1,0 +1,10 @@
+sys.dm_os_waiting_tasks.blocking_exec_context_id
+sys.dm_os_waiting_tasks.blocking_session_id
+sys.dm_os_waiting_tasks.blocking_task_address
+sys.dm_os_waiting_tasks.exec_context_id
+sys.dm_os_waiting_tasks.resource_address
+sys.dm_os_waiting_tasks.resource_description
+sys.dm_os_waiting_tasks.session_id
+sys.dm_os_waiting_tasks.wait_duration_ms
+sys.dm_os_waiting_tasks.wait_type
+sys.dm_os_waiting_tasks.waiting_task_address

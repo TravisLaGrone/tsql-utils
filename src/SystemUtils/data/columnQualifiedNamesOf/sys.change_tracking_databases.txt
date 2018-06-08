@@ -1,0 +1,6 @@
+sys.change_tracking_databases.database_id
+sys.change_tracking_databases.is_auto_cleanup_on
+sys.change_tracking_databases.max_cleanup_version
+sys.change_tracking_databases.retention_period
+sys.change_tracking_databases.retention_period_units
+sys.change_tracking_databases.retention_period_units_desc

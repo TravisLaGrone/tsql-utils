@@ -1,0 +1,3 @@
+sys.trace_categories.category_id
+sys.trace_categories.name
+sys.trace_categories.type

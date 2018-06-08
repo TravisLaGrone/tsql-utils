@@ -1,0 +1,4 @@
+sys.dm_os_ring_buffers.record
+sys.dm_os_ring_buffers.ring_buffer_address
+sys.dm_os_ring_buffers.ring_buffer_type
+sys.dm_os_ring_buffers.timestamp

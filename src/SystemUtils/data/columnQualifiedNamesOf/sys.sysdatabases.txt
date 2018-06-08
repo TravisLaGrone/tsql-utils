@@ -1,0 +1,12 @@
+sys.sysdatabases.category
+sys.sysdatabases.cmptlevel
+sys.sysdatabases.crdate
+sys.sysdatabases.dbid
+sys.sysdatabases.filename
+sys.sysdatabases.mode
+sys.sysdatabases.name
+sys.sysdatabases.reserved
+sys.sysdatabases.sid
+sys.sysdatabases.status
+sys.sysdatabases.status2
+sys.sysdatabases.version

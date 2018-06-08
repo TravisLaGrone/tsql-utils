@@ -1,0 +1,10 @@
+sys.server_permissions.class
+sys.server_permissions.class_desc
+sys.server_permissions.grantee_principal_id
+sys.server_permissions.grantor_principal_id
+sys.server_permissions.major_id
+sys.server_permissions.minor_id
+sys.server_permissions.permission_name
+sys.server_permissions.state
+sys.server_permissions.state_desc
+sys.server_permissions.type

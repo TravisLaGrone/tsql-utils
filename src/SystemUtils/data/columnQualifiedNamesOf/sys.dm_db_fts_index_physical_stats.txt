@@ -1,0 +1,4 @@
+sys.dm_db_fts_index_physical_stats.fulltext_index_page_count
+sys.dm_db_fts_index_physical_stats.keyphrase_index_page_count
+sys.dm_db_fts_index_physical_stats.object_id
+sys.dm_db_fts_index_physical_stats.similarity_index_page_count

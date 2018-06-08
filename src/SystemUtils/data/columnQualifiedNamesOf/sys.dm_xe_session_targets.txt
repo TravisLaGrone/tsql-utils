@@ -1,0 +1,6 @@
+sys.dm_xe_session_targets.event_session_address
+sys.dm_xe_session_targets.execution_count
+sys.dm_xe_session_targets.execution_duration_ms
+sys.dm_xe_session_targets.target_data
+sys.dm_xe_session_targets.target_name
+sys.dm_xe_session_targets.target_package_guid

@@ -1,0 +1,6 @@
+sys.dm_db_mirroring_auto_page_repair.database_id
+sys.dm_db_mirroring_auto_page_repair.error_type
+sys.dm_db_mirroring_auto_page_repair.file_id
+sys.dm_db_mirroring_auto_page_repair.modification_time
+sys.dm_db_mirroring_auto_page_repair.page_id
+sys.dm_db_mirroring_auto_page_repair.page_status

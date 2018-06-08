@@ -1,0 +1,11 @@
+sys.dm_server_services.cluster_nodename
+sys.dm_server_services.filename
+sys.dm_server_services.is_clustered
+sys.dm_server_services.last_startup_time
+sys.dm_server_services.process_id
+sys.dm_server_services.service_account
+sys.dm_server_services.servicename
+sys.dm_server_services.startup_type
+sys.dm_server_services.startup_type_desc
+sys.dm_server_services.status
+sys.dm_server_services.status_desc

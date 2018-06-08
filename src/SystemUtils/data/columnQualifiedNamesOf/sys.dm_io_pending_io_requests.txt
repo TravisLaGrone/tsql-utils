@@ -1,0 +1,10 @@
+sys.dm_io_pending_io_requests.io_completion_request_address
+sys.dm_io_pending_io_requests.io_completion_routine_address
+sys.dm_io_pending_io_requests.io_handle
+sys.dm_io_pending_io_requests.io_handle_path
+sys.dm_io_pending_io_requests.io_offset
+sys.dm_io_pending_io_requests.io_pending
+sys.dm_io_pending_io_requests.io_pending_ms_ticks
+sys.dm_io_pending_io_requests.io_type
+sys.dm_io_pending_io_requests.io_user_data_address
+sys.dm_io_pending_io_requests.scheduler_address

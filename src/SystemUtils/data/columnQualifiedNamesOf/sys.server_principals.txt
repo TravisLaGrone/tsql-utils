@@ -1,0 +1,13 @@
+sys.server_principals.create_date
+sys.server_principals.credential_id
+sys.server_principals.default_database_name
+sys.server_principals.default_language_name
+sys.server_principals.is_disabled
+sys.server_principals.is_fixed_role
+sys.server_principals.modify_date
+sys.server_principals.name
+sys.server_principals.owning_principal_id
+sys.server_principals.principal_id
+sys.server_principals.sid
+sys.server_principals.type
+sys.server_principals.type_desc

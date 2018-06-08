@@ -1,0 +1,6 @@
+sys.dm_db_mirroring_past_actions.action_sequence
+sys.dm_db_mirroring_past_actions.action_type
+sys.dm_db_mirroring_past_actions.current_state
+sys.dm_db_mirroring_past_actions.mirroring_guid
+sys.dm_db_mirroring_past_actions.name
+sys.dm_db_mirroring_past_actions.state_machine_name

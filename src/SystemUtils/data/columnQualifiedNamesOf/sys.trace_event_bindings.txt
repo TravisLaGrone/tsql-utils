@@ -1,0 +1,2 @@
+sys.trace_event_bindings.trace_column_id
+sys.trace_event_bindings.trace_event_id

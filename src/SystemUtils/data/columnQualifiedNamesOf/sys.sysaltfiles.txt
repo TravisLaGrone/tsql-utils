@@ -1,0 +1,10 @@
+sys.sysaltfiles.dbid
+sys.sysaltfiles.fileid
+sys.sysaltfiles.filename
+sys.sysaltfiles.groupid
+sys.sysaltfiles.growth
+sys.sysaltfiles.maxsize
+sys.sysaltfiles.name
+sys.sysaltfiles.perf
+sys.sysaltfiles.size
+sys.sysaltfiles.status

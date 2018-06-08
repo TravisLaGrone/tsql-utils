@@ -1,0 +1,12 @@
+sys.dm_exec_background_job_queue.database_id
+sys.dm_exec_background_job_queue.error_code
+sys.dm_exec_background_job_queue.in_progress
+sys.dm_exec_background_job_queue.job_id
+sys.dm_exec_background_job_queue.object_id1
+sys.dm_exec_background_job_queue.object_id2
+sys.dm_exec_background_job_queue.object_id3
+sys.dm_exec_background_job_queue.object_id4
+sys.dm_exec_background_job_queue.request_type
+sys.dm_exec_background_job_queue.retry_count
+sys.dm_exec_background_job_queue.session_id
+sys.dm_exec_background_job_queue.time_queued

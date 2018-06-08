@@ -1,0 +1,7 @@
+sys.sysdevices.cntrltype
+sys.sysdevices.high
+sys.sysdevices.low
+sys.sysdevices.name
+sys.sysdevices.phyname
+sys.sysdevices.size
+sys.sysdevices.status

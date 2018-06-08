@@ -1,0 +1,13 @@
+sys.tcp_endpoints.endpoint_id
+sys.tcp_endpoints.ip_address
+sys.tcp_endpoints.is_admin_endpoint
+sys.tcp_endpoints.is_dynamic_port
+sys.tcp_endpoints.name
+sys.tcp_endpoints.port
+sys.tcp_endpoints.principal_id
+sys.tcp_endpoints.protocol
+sys.tcp_endpoints.protocol_desc
+sys.tcp_endpoints.state
+sys.tcp_endpoints.state_desc
+sys.tcp_endpoints.type
+sys.tcp_endpoints.type_desc

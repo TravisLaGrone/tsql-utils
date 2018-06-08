@@ -1,0 +1,4 @@
+sys.sysfulltextcatalogs.ftcatid
+sys.sysfulltextcatalogs.name
+sys.sysfulltextcatalogs.path
+sys.sysfulltextcatalogs.status

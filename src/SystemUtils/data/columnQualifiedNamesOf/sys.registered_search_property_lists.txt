@@ -1,0 +1,5 @@
+sys.registered_search_property_lists.create_date
+sys.registered_search_property_lists.modify_date
+sys.registered_search_property_lists.name
+sys.registered_search_property_lists.principal_id
+sys.registered_search_property_lists.property_list_id

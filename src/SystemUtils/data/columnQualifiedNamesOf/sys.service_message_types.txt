@@ -1,0 +1,6 @@
+sys.service_message_types.message_type_id
+sys.service_message_types.name
+sys.service_message_types.principal_id
+sys.service_message_types.validation
+sys.service_message_types.validation_desc
+sys.service_message_types.xml_collection_id

@@ -1,0 +1,5 @@
+sys.messages.is_event_logged
+sys.messages.language_id
+sys.messages.message_id
+sys.messages.severity
+sys.messages.text

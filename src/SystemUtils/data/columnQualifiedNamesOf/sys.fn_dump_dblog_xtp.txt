@@ -1,0 +1,142 @@
+sys.fn_dump_dblog_xtp.AllocUnitId
+sys.fn_dump_dblog_xtp.AllocUnitName
+sys.fn_dump_dblog_xtp.Article ID
+sys.fn_dump_dblog_xtp.Begin Time
+sys.fn_dump_dblog_xtp.Beginlog Status
+sys.fn_dump_dblog_xtp.Bulk allocated extent count
+sys.fn_dump_dblog_xtp.Bulk allocated extent ids
+sys.fn_dump_dblog_xtp.Bulk allocation first IAM Page ID
+sys.fn_dump_dblog_xtp.Bulk AllocUnitId
+sys.fn_dump_dblog_xtp.Bulk RowsetId
+sys.fn_dump_dblog_xtp.Byte Offset
+sys.fn_dump_dblog_xtp.Bytes Freed
+sys.fn_dump_dblog_xtp.Checkpoint Begin
+sys.fn_dump_dblog_xtp.Checkpoint End
+sys.fn_dump_dblog_xtp.CHKPT Begin DB Version
+sys.fn_dump_dblog_xtp.CHKPT End DB Version
+sys.fn_dump_dblog_xtp.CI Index Id
+sys.fn_dump_dblog_xtp.CI Table Id
+sys.fn_dump_dblog_xtp.Column Offset
+sys.fn_dump_dblog_xtp.Command
+sys.fn_dump_dblog_xtp.Command Type
+sys.fn_dump_dblog_xtp.Compression Info
+sys.fn_dump_dblog_xtp.Compression Log Type
+sys.fn_dump_dblog_xtp.Context
+sys.fn_dump_dblog_xtp.CopyVerionInfo Source Page Id
+sys.fn_dump_dblog_xtp.CopyVerionInfo Source Page LSN
+sys.fn_dump_dblog_xtp.CopyVerionInfo Source Slot Count
+sys.fn_dump_dblog_xtp.CopyVerionInfo Source Slot Id
+sys.fn_dump_dblog_xtp.Current LSN
+sys.fn_dump_dblog_xtp.Database Name
+sys.fn_dump_dblog_xtp.Description
+sys.fn_dump_dblog_xtp.Dirty Pages
+sys.fn_dump_dblog_xtp.End AGE
+sys.fn_dump_dblog_xtp.End Time
+sys.fn_dump_dblog_xtp.File ID
+sys.fn_dump_dblog_xtp.File Status
+sys.fn_dump_dblog_xtp.FileGroup ID
+sys.fn_dump_dblog_xtp.Flag Bits
+sys.fn_dump_dblog_xtp.Flags
+sys.fn_dump_dblog_xtp.Format LSN
+sys.fn_dump_dblog_xtp.InvalidateCache Id
+sys.fn_dump_dblog_xtp.InvalidateCache keys
+sys.fn_dump_dblog_xtp.Last Distributed Backup End LSN
+sys.fn_dump_dblog_xtp.Last Distributed End LSN
+sys.fn_dump_dblog_xtp.Lock Information
+sys.fn_dump_dblog_xtp.Log Record
+sys.fn_dump_dblog_xtp.Log Record Fixed Length
+sys.fn_dump_dblog_xtp.Log Record Length
+sys.fn_dump_dblog_xtp.Log Reserve
+sys.fn_dump_dblog_xtp.LogBlockGeneration
+sys.fn_dump_dblog_xtp.Logical Name
+sys.fn_dump_dblog_xtp.LSN before writes
+sys.fn_dump_dblog_xtp.Mark Name
+sys.fn_dump_dblog_xtp.Master DBID
+sys.fn_dump_dblog_xtp.Master XDESID
+sys.fn_dump_dblog_xtp.Max XDESID
+sys.fn_dump_dblog_xtp.Meta Status
+sys.fn_dump_dblog_xtp.Minimum LSN
+sys.fn_dump_dblog_xtp.Modify Size
+sys.fn_dump_dblog_xtp.New Size
+sys.fn_dump_dblog_xtp.New Split Page
+sys.fn_dump_dblog_xtp.New Value
+sys.fn_dump_dblog_xtp.NewAllocUnitId
+sys.fn_dump_dblog_xtp.newrow_data
+sys.fn_dump_dblog_xtp.newrow_datasize
+sys.fn_dump_dblog_xtp.newrow_identity
+sys.fn_dump_dblog_xtp.Next Replicated End LSN
+sys.fn_dump_dblog_xtp.Num Elements
+sys.fn_dump_dblog_xtp.Num Transactions
+sys.fn_dump_dblog_xtp.Number of Locks
+sys.fn_dump_dblog_xtp.Offset
+sys.fn_dump_dblog_xtp.Offset in Row
+sys.fn_dump_dblog_xtp.Old Size
+sys.fn_dump_dblog_xtp.Old Value
+sys.fn_dump_dblog_xtp.Oldest Active LSN
+sys.fn_dump_dblog_xtp.Oldest Active Transaction ID
+sys.fn_dump_dblog_xtp.Oldest Replicated Begin LSN
+sys.fn_dump_dblog_xtp.oldrow_begin_timestamp
+sys.fn_dump_dblog_xtp.oldrow_identity
+sys.fn_dump_dblog_xtp.oldrow_key_data
+sys.fn_dump_dblog_xtp.oldrow_key_datasize
+sys.fn_dump_dblog_xtp.Operation
+sys.fn_dump_dblog_xtp.operation_desc
+sys.fn_dump_dblog_xtp.Page ID
+sys.fn_dump_dblog_xtp.PageFormat FormatOption
+sys.fn_dump_dblog_xtp.PageFormat PageFlags
+sys.fn_dump_dblog_xtp.PageFormat PageLevel
+sys.fn_dump_dblog_xtp.PageFormat PageStat
+sys.fn_dump_dblog_xtp.PageFormat PageType
+sys.fn_dump_dblog_xtp.Pages Written
+sys.fn_dump_dblog_xtp.Parent Transaction ID
+sys.fn_dump_dblog_xtp.Partial Status
+sys.fn_dump_dblog_xtp.PartitionId
+sys.fn_dump_dblog_xtp.Physical Name
+sys.fn_dump_dblog_xtp.Prepare Time
+sys.fn_dump_dblog_xtp.Preplog Begin LSN
+sys.fn_dump_dblog_xtp.Previous LSN
+sys.fn_dump_dblog_xtp.Previous Page LSN
+sys.fn_dump_dblog_xtp.Previous Savepoint
+sys.fn_dump_dblog_xtp.Publication ID
+sys.fn_dump_dblog_xtp.Repl CSN
+sys.fn_dump_dblog_xtp.Repl Epoch
+sys.fn_dump_dblog_xtp.Repl Flags
+sys.fn_dump_dblog_xtp.Repl Min Hold LSN
+sys.fn_dump_dblog_xtp.Repl Msg
+sys.fn_dump_dblog_xtp.Repl Partition ID
+sys.fn_dump_dblog_xtp.Repl Source Commit Time
+sys.fn_dump_dblog_xtp.Replicated Records
+sys.fn_dump_dblog_xtp.Rowbits Bit Count
+sys.fn_dump_dblog_xtp.Rowbits Bit Value
+sys.fn_dump_dblog_xtp.Rowbits First Bit
+sys.fn_dump_dblog_xtp.RowFlags
+sys.fn_dump_dblog_xtp.RowLog Contents 0
+sys.fn_dump_dblog_xtp.RowLog Contents 1
+sys.fn_dump_dblog_xtp.RowLog Contents 2
+sys.fn_dump_dblog_xtp.RowLog Contents 3
+sys.fn_dump_dblog_xtp.RowLog Contents 4
+sys.fn_dump_dblog_xtp.RowLog Contents 5
+sys.fn_dump_dblog_xtp.Rows Deleted
+sys.fn_dump_dblog_xtp.RowsetId
+sys.fn_dump_dblog_xtp.Savepoint Name
+sys.fn_dump_dblog_xtp.Server Name
+sys.fn_dump_dblog_xtp.Server UID
+sys.fn_dump_dblog_xtp.Slot ID
+sys.fn_dump_dblog_xtp.SPID
+sys.fn_dump_dblog_xtp.table_id
+sys.fn_dump_dblog_xtp.Tag Bits
+sys.fn_dump_dblog_xtp.Text Size
+sys.fn_dump_dblog_xtp.TextPtr
+sys.fn_dump_dblog_xtp.total_size
+sys.fn_dump_dblog_xtp.Transaction Begin
+sys.fn_dump_dblog_xtp.Transaction ID
+sys.fn_dump_dblog_xtp.Transaction Name
+sys.fn_dump_dblog_xtp.Transaction SID
+sys.fn_dump_dblog_xtp.tx_end_timestamp
+sys.fn_dump_dblog_xtp.Virtual Clock
+sys.fn_dump_dblog_xtp.VLFs added
+sys.fn_dump_dblog_xtp.Xact ID
+sys.fn_dump_dblog_xtp.Xact Node ID
+sys.fn_dump_dblog_xtp.Xact Node Local ID
+sys.fn_dump_dblog_xtp.Xact Type
+sys.fn_dump_dblog_xtp.xtp_description

@@ -1,0 +1,10 @@
+sys.fn_column_store_row_groups.deleted_rows
+sys.fn_column_store_row_groups.delta_store_hobt_id
+sys.fn_column_store_row_groups.index_id
+sys.fn_column_store_row_groups.object_id
+sys.fn_column_store_row_groups.partition_number
+sys.fn_column_store_row_groups.row_group_id
+sys.fn_column_store_row_groups.size_in_bytes
+sys.fn_column_store_row_groups.state
+sys.fn_column_store_row_groups.state_description
+sys.fn_column_store_row_groups.total_rows

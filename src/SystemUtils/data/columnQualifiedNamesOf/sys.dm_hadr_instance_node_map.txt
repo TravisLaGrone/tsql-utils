@@ -1,0 +1,3 @@
+sys.dm_hadr_instance_node_map.ag_resource_id
+sys.dm_hadr_instance_node_map.instance_name
+sys.dm_hadr_instance_node_map.node_name

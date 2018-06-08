@@ -1,0 +1,10 @@
+sys.stats.auto_created
+sys.stats.filter_definition
+sys.stats.has_filter
+sys.stats.is_incremental
+sys.stats.is_temporary
+sys.stats.name
+sys.stats.no_recompute
+sys.stats.object_id
+sys.stats.stats_id
+sys.stats.user_created

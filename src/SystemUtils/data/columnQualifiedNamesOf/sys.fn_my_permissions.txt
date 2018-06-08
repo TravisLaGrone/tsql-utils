@@ -1,0 +1,3 @@
+sys.fn_my_permissions.entity_name
+sys.fn_my_permissions.permission_name
+sys.fn_my_permissions.subentity_name

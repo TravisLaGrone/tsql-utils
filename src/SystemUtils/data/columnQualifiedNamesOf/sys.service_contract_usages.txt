@@ -1,0 +1,2 @@
+sys.service_contract_usages.service_contract_id
+sys.service_contract_usages.service_id

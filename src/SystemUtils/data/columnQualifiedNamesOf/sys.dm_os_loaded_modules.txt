@@ -1,0 +1,12 @@
+sys.dm_os_loaded_modules.base_address
+sys.dm_os_loaded_modules.company
+sys.dm_os_loaded_modules.debug
+sys.dm_os_loaded_modules.description
+sys.dm_os_loaded_modules.file_version
+sys.dm_os_loaded_modules.language
+sys.dm_os_loaded_modules.name
+sys.dm_os_loaded_modules.patched
+sys.dm_os_loaded_modules.prerelease
+sys.dm_os_loaded_modules.private_build
+sys.dm_os_loaded_modules.product_version
+sys.dm_os_loaded_modules.special_build

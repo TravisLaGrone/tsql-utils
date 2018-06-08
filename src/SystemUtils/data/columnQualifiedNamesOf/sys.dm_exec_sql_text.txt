@@ -1,0 +1,5 @@
+sys.dm_exec_sql_text.dbid
+sys.dm_exec_sql_text.encrypted
+sys.dm_exec_sql_text.number
+sys.dm_exec_sql_text.objectid
+sys.dm_exec_sql_text.text

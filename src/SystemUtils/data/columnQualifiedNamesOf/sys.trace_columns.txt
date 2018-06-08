@@ -1,0 +1,7 @@
+sys.trace_columns.is_filterable
+sys.trace_columns.is_repeatable
+sys.trace_columns.is_repeated_base
+sys.trace_columns.max_size
+sys.trace_columns.name
+sys.trace_columns.trace_column_id
+sys.trace_columns.type_name

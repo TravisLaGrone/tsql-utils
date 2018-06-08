@@ -1,0 +1,3 @@
+sys.service_contracts.name
+sys.service_contracts.principal_id
+sys.service_contracts.service_contract_id

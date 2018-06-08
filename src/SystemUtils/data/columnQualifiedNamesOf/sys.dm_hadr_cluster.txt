@@ -1,0 +1,5 @@
+sys.dm_hadr_cluster.cluster_name
+sys.dm_hadr_cluster.quorum_state
+sys.dm_hadr_cluster.quorum_state_desc
+sys.dm_hadr_cluster.quorum_type
+sys.dm_hadr_cluster.quorum_type_desc

@@ -1,0 +1,3 @@
+sys.trace_xe_action_map.package_name
+sys.trace_xe_action_map.trace_column_id
+sys.trace_xe_action_map.xe_action_name

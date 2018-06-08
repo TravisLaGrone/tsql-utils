@@ -1,0 +1,9 @@
+sys.fn_sqlagent_jobs.date_created
+sys.fn_sqlagent_jobs.date_modified
+sys.fn_sqlagent_jobs.delete_level
+sys.fn_sqlagent_jobs.description
+sys.fn_sqlagent_jobs.enabled
+sys.fn_sqlagent_jobs.job_id
+sys.fn_sqlagent_jobs.name
+sys.fn_sqlagent_jobs.notify_level_eventlog
+sys.fn_sqlagent_jobs.start_step_id

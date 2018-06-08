@@ -1,0 +1,14 @@
+sys.dm_io_virtual_file_stats.database_id
+sys.dm_io_virtual_file_stats.file_handle
+sys.dm_io_virtual_file_stats.file_id
+sys.dm_io_virtual_file_stats.io_stall
+sys.dm_io_virtual_file_stats.io_stall_queued_read_ms
+sys.dm_io_virtual_file_stats.io_stall_queued_write_ms
+sys.dm_io_virtual_file_stats.io_stall_read_ms
+sys.dm_io_virtual_file_stats.io_stall_write_ms
+sys.dm_io_virtual_file_stats.num_of_bytes_read
+sys.dm_io_virtual_file_stats.num_of_bytes_written
+sys.dm_io_virtual_file_stats.num_of_reads
+sys.dm_io_virtual_file_stats.num_of_writes
+sys.dm_io_virtual_file_stats.sample_ms
+sys.dm_io_virtual_file_stats.size_on_disk_bytes

@@ -1,0 +1,8 @@
+sys.partition_parameters.collation_name
+sys.partition_parameters.function_id
+sys.partition_parameters.max_length
+sys.partition_parameters.parameter_id
+sys.partition_parameters.precision
+sys.partition_parameters.scale
+sys.partition_parameters.system_type_id
+sys.partition_parameters.user_type_id

@@ -1,0 +1,12 @@
+sys.plan_guides.create_date
+sys.plan_guides.hints
+sys.plan_guides.is_disabled
+sys.plan_guides.modify_date
+sys.plan_guides.name
+sys.plan_guides.parameters
+sys.plan_guides.plan_guide_id
+sys.plan_guides.query_text
+sys.plan_guides.scope_batch
+sys.plan_guides.scope_object_id
+sys.plan_guides.scope_type
+sys.plan_guides.scope_type_desc

@@ -1,0 +1,4 @@
+sys.dm_cryptographic_provider_algorithms.algorithm_id
+sys.dm_cryptographic_provider_algorithms.algorithm_tag
+sys.dm_cryptographic_provider_algorithms.key_length
+sys.dm_cryptographic_provider_algorithms.key_type

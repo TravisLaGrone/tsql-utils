@@ -1,0 +1,8 @@
+sys.dm_fts_parser.display_term
+sys.dm_fts_parser.expansion_type
+sys.dm_fts_parser.group_id
+sys.dm_fts_parser.keyword
+sys.dm_fts_parser.occurrence
+sys.dm_fts_parser.phrase_id
+sys.dm_fts_parser.source_term
+sys.dm_fts_parser.special_term

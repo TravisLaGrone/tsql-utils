@@ -1,0 +1,7 @@
+sys.database_recovery_status.database_guid
+sys.database_recovery_status.database_id
+sys.database_recovery_status.family_guid
+sys.database_recovery_status.first_recovery_fork_guid
+sys.database_recovery_status.fork_point_lsn
+sys.database_recovery_status.last_log_backup_lsn
+sys.database_recovery_status.recovery_fork_guid

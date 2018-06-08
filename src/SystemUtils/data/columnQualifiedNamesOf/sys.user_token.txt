@@ -1,0 +1,5 @@
+sys.user_token.name
+sys.user_token.principal_id
+sys.user_token.sid
+sys.user_token.type
+sys.user_token.usage

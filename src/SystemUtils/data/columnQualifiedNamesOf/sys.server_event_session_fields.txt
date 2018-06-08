@@ -1,0 +1,4 @@
+sys.server_event_session_fields.event_session_id
+sys.server_event_session_fields.name
+sys.server_event_session_fields.object_id
+sys.server_event_session_fields.value

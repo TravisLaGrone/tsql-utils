@@ -1,0 +1,5 @@
+sys.dm_logpool_hashentries.bucket_no
+sys.dm_logpool_hashentries.cache_buffer
+sys.dm_logpool_hashentries.database_id
+sys.dm_logpool_hashentries.log_block_id
+sys.dm_logpool_hashentries.recovery_unit_id

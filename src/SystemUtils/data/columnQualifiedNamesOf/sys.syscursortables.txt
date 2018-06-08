@@ -1,0 +1,9 @@
+sys.syscursortables.cursor_handle
+sys.syscursortables.dbid
+sys.syscursortables.dbname
+sys.syscursortables.lock_type
+sys.syscursortables.objectid
+sys.syscursortables.optimizer_hint
+sys.syscursortables.server_name
+sys.syscursortables.table_name
+sys.syscursortables.table_owner

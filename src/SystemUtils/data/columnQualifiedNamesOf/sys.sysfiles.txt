@@ -1,0 +1,9 @@
+sys.sysfiles.fileid
+sys.sysfiles.filename
+sys.sysfiles.groupid
+sys.sysfiles.growth
+sys.sysfiles.maxsize
+sys.sysfiles.name
+sys.sysfiles.perf
+sys.sysfiles.size
+sys.sysfiles.status

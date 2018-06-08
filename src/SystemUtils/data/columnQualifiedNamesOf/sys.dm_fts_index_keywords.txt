@@ -1,0 +1,4 @@
+sys.dm_fts_index_keywords.column_id
+sys.dm_fts_index_keywords.display_term
+sys.dm_fts_index_keywords.document_count
+sys.dm_fts_index_keywords.keyword

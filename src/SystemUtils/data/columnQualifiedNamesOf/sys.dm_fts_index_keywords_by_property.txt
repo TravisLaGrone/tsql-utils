@@ -1,0 +1,5 @@
+sys.dm_fts_index_keywords_by_property.column_id
+sys.dm_fts_index_keywords_by_property.display_term
+sys.dm_fts_index_keywords_by_property.document_id
+sys.dm_fts_index_keywords_by_property.keyword
+sys.dm_fts_index_keywords_by_property.property_id

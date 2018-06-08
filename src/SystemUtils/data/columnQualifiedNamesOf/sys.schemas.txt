@@ -1,0 +1,3 @@
+sys.schemas.name
+sys.schemas.principal_id
+sys.schemas.schema_id

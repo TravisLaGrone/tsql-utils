@@ -1,0 +1,6 @@
+sys.extended_properties.class
+sys.extended_properties.class_desc
+sys.extended_properties.major_id
+sys.extended_properties.minor_id
+sys.extended_properties.name
+sys.extended_properties.value

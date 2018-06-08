@@ -1,0 +1,5 @@
+sys.dm_os_memory_node_access_stats.local_node
+sys.dm_os_memory_node_access_stats.page_class
+sys.dm_os_memory_node_access_stats.read_count
+sys.dm_os_memory_node_access_stats.remote_node
+sys.dm_os_memory_node_access_stats.write_count

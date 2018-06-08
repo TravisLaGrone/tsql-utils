@@ -1,0 +1,7 @@
+sys.dm_os_dispatchers.current_item_duration
+sys.dm_os_dispatchers.dispatcher_pool_address
+sys.dm_os_dispatchers.fade_end_time
+sys.dm_os_dispatchers.items_processed
+sys.dm_os_dispatchers.state
+sys.dm_os_dispatchers.task_address
+sys.dm_os_dispatchers.wait_duration

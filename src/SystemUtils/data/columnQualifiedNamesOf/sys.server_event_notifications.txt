@@ -1,0 +1,11 @@
+sys.server_event_notifications.broker_instance
+sys.server_event_notifications.create_date
+sys.server_event_notifications.creator_sid
+sys.server_event_notifications.modify_date
+sys.server_event_notifications.name
+sys.server_event_notifications.object_id
+sys.server_event_notifications.parent_class
+sys.server_event_notifications.parent_class_desc
+sys.server_event_notifications.parent_id
+sys.server_event_notifications.principal_id
+sys.server_event_notifications.service_name

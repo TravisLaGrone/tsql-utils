@@ -1,0 +1,2 @@
+sys.dm_clr_properties.name
+sys.dm_clr_properties.value

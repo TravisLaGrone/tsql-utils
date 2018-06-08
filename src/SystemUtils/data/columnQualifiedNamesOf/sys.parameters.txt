@@ -1,0 +1,16 @@
+sys.parameters.default_value
+sys.parameters.has_default_value
+sys.parameters.is_cursor_ref
+sys.parameters.is_nullable
+sys.parameters.is_output
+sys.parameters.is_readonly
+sys.parameters.is_xml_document
+sys.parameters.max_length
+sys.parameters.name
+sys.parameters.object_id
+sys.parameters.parameter_id
+sys.parameters.precision
+sys.parameters.scale
+sys.parameters.system_type_id
+sys.parameters.user_type_id
+sys.parameters.xml_collection_id

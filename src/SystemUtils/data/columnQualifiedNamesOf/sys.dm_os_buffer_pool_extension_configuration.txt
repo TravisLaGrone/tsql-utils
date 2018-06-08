@@ -1,0 +1,5 @@
+sys.dm_os_buffer_pool_extension_configuration.current_size_in_kb
+sys.dm_os_buffer_pool_extension_configuration.file_id
+sys.dm_os_buffer_pool_extension_configuration.path
+sys.dm_os_buffer_pool_extension_configuration.state
+sys.dm_os_buffer_pool_extension_configuration.state_description

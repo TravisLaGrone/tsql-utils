@@ -1,0 +1,5 @@
+sys.fulltext_document_types.class_id
+sys.fulltext_document_types.document_type
+sys.fulltext_document_types.manufacturer
+sys.fulltext_document_types.path
+sys.fulltext_document_types.version

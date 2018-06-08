@@ -1,0 +1,5 @@
+sys.dm_broker_activated_tasks.database_id
+sys.dm_broker_activated_tasks.execute_as
+sys.dm_broker_activated_tasks.procedure_name
+sys.dm_broker_activated_tasks.queue_id
+sys.dm_broker_activated_tasks.spid

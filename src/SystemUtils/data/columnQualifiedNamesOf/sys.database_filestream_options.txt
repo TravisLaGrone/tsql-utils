@@ -1,0 +1,4 @@
+sys.database_filestream_options.database_id
+sys.database_filestream_options.directory_name
+sys.database_filestream_options.non_transacted_access
+sys.database_filestream_options.non_transacted_access_desc

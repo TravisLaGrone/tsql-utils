@@ -1,0 +1,8 @@
+sys.dm_db_stats_properties.last_updated
+sys.dm_db_stats_properties.modification_counter
+sys.dm_db_stats_properties.object_id
+sys.dm_db_stats_properties.rows
+sys.dm_db_stats_properties.rows_sampled
+sys.dm_db_stats_properties.stats_id
+sys.dm_db_stats_properties.steps
+sys.dm_db_stats_properties.unfiltered_rows

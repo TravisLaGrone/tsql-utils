@@ -1,0 +1,7 @@
+sys.openkeys.database_id
+sys.openkeys.database_name
+sys.openkeys.key_guid
+sys.openkeys.key_id
+sys.openkeys.key_name
+sys.openkeys.opened_date
+sys.openkeys.status

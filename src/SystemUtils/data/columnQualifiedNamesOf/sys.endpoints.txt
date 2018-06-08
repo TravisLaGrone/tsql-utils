@@ -1,0 +1,10 @@
+sys.endpoints.endpoint_id
+sys.endpoints.is_admin_endpoint
+sys.endpoints.name
+sys.endpoints.principal_id
+sys.endpoints.protocol
+sys.endpoints.protocol_desc
+sys.endpoints.state
+sys.endpoints.state_desc
+sys.endpoints.type
+sys.endpoints.type_desc

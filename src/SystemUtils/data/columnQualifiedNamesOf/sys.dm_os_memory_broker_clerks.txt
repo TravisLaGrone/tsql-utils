@@ -1,0 +1,9 @@
+sys.dm_os_memory_broker_clerks.clerk_name
+sys.dm_os_memory_broker_clerks.external_benefit
+sys.dm_os_memory_broker_clerks.internal_benefit
+sys.dm_os_memory_broker_clerks.internal_freed_kb
+sys.dm_os_memory_broker_clerks.periodic_freed_kb
+sys.dm_os_memory_broker_clerks.simulated_kb
+sys.dm_os_memory_broker_clerks.simulation_benefit
+sys.dm_os_memory_broker_clerks.total_kb
+sys.dm_os_memory_broker_clerks.value_of_memory

@@ -1,0 +1,6 @@
+sys.dm_os_spinlock_stats.backoffs
+sys.dm_os_spinlock_stats.collisions
+sys.dm_os_spinlock_stats.name
+sys.dm_os_spinlock_stats.sleep_time
+sys.dm_os_spinlock_stats.spins
+sys.dm_os_spinlock_stats.spins_per_collision

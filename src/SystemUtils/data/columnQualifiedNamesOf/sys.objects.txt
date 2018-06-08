@@ -1,0 +1,12 @@
+sys.objects.create_date
+sys.objects.is_ms_shipped
+sys.objects.is_published
+sys.objects.is_schema_published
+sys.objects.modify_date
+sys.objects.name
+sys.objects.object_id
+sys.objects.parent_object_id
+sys.objects.principal_id
+sys.objects.schema_id
+sys.objects.type
+sys.objects.type_desc

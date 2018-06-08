@@ -1,0 +1,2 @@
+sys.securable_classes.class
+sys.securable_classes.class_desc

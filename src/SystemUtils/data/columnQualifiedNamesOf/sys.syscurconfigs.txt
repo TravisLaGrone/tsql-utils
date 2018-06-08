@@ -1,0 +1,4 @@
+sys.syscurconfigs.comment
+sys.syscurconfigs.config
+sys.syscurconfigs.status
+sys.syscurconfigs.value

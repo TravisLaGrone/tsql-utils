@@ -1,0 +1,4 @@
+sys.fn_sqlagent_jobsteps_logs.date_created
+sys.fn_sqlagent_jobsteps_logs.log_id
+sys.fn_sqlagent_jobsteps_logs.log_text
+sys.fn_sqlagent_jobsteps_logs.step_uid

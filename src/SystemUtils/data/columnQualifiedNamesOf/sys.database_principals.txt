@@ -1,0 +1,14 @@
+sys.database_principals.authentication_type
+sys.database_principals.authentication_type_desc
+sys.database_principals.create_date
+sys.database_principals.default_language_lcid
+sys.database_principals.default_language_name
+sys.database_principals.default_schema_name
+sys.database_principals.is_fixed_role
+sys.database_principals.modify_date
+sys.database_principals.name
+sys.database_principals.owning_principal_id
+sys.database_principals.principal_id
+sys.database_principals.sid
+sys.database_principals.type
+sys.database_principals.type_desc

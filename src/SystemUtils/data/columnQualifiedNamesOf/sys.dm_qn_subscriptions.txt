@@ -1,0 +1,7 @@
+sys.dm_qn_subscriptions.created
+sys.dm_qn_subscriptions.database_id
+sys.dm_qn_subscriptions.id
+sys.dm_qn_subscriptions.object_id
+sys.dm_qn_subscriptions.sid
+sys.dm_qn_subscriptions.status
+sys.dm_qn_subscriptions.timeout

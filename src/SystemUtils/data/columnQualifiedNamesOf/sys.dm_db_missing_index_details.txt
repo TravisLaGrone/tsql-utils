@@ -1,0 +1,7 @@
+sys.dm_db_missing_index_details.database_id
+sys.dm_db_missing_index_details.equality_columns
+sys.dm_db_missing_index_details.included_columns
+sys.dm_db_missing_index_details.index_handle
+sys.dm_db_missing_index_details.inequality_columns
+sys.dm_db_missing_index_details.object_id
+sys.dm_db_missing_index_details.statement

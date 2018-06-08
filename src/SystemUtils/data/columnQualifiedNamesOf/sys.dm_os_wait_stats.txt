@@ -1,0 +1,5 @@
+sys.dm_os_wait_stats.max_wait_time_ms
+sys.dm_os_wait_stats.signal_wait_time_ms
+sys.dm_os_wait_stats.wait_time_ms
+sys.dm_os_wait_stats.wait_type
+sys.dm_os_wait_stats.waiting_tasks_count

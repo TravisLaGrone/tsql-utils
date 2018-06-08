@@ -1,0 +1,3 @@
+sys.fn_trace_getinfo.property
+sys.fn_trace_getinfo.traceid
+sys.fn_trace_getinfo.value

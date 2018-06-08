@@ -1,0 +1,6 @@
+sys.dm_hadr_cluster_networks.is_ipv4
+sys.dm_hadr_cluster_networks.is_public
+sys.dm_hadr_cluster_networks.member_name
+sys.dm_hadr_cluster_networks.network_subnet_ip
+sys.dm_hadr_cluster_networks.network_subnet_ipv4_mask
+sys.dm_hadr_cluster_networks.network_subnet_prefix_length

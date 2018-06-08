@@ -1,0 +1,9 @@
+sys.sql_dependencies.class
+sys.sql_dependencies.class_desc
+sys.sql_dependencies.column_id
+sys.sql_dependencies.is_select_all
+sys.sql_dependencies.is_selected
+sys.sql_dependencies.is_updated
+sys.sql_dependencies.object_id
+sys.sql_dependencies.referenced_major_id
+sys.sql_dependencies.referenced_minor_id

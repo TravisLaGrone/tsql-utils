@@ -1,0 +1,12 @@
+sys.dm_exec_xml_handles.creation_time
+sys.dm_exec_xml_handles.document_id
+sys.dm_exec_xml_handles.dormant_duration_ms
+sys.dm_exec_xml_handles.namespace_document_id
+sys.dm_exec_xml_handles.num_openxml_calls
+sys.dm_exec_xml_handles.original_document_size_bytes
+sys.dm_exec_xml_handles.original_namespace_document_size_bytes
+sys.dm_exec_xml_handles.row_count
+sys.dm_exec_xml_handles.session_id
+sys.dm_exec_xml_handles.sql_handle
+sys.dm_exec_xml_handles.statement_end_offset
+sys.dm_exec_xml_handles.statement_start_offset

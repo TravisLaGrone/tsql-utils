@@ -1,0 +1,7 @@
+sys.fulltext_index_fragments.data_size
+sys.fulltext_index_fragments.fragment_id
+sys.fulltext_index_fragments.fragment_object_id
+sys.fulltext_index_fragments.row_count
+sys.fulltext_index_fragments.status
+sys.fulltext_index_fragments.table_id
+sys.fulltext_index_fragments.timestamp

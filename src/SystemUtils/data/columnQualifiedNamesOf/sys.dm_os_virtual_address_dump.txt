@@ -1,0 +1,7 @@
+sys.dm_os_virtual_address_dump.region_allocation_base_address
+sys.dm_os_virtual_address_dump.region_allocation_protection
+sys.dm_os_virtual_address_dump.region_base_address
+sys.dm_os_virtual_address_dump.region_current_protection
+sys.dm_os_virtual_address_dump.region_size_in_bytes
+sys.dm_os_virtual_address_dump.region_state
+sys.dm_os_virtual_address_dump.region_type

@@ -1,0 +1,9 @@
+sys.configurations.configuration_id
+sys.configurations.description
+sys.configurations.is_advanced
+sys.configurations.is_dynamic
+sys.configurations.maximum
+sys.configurations.minimum
+sys.configurations.name
+sys.configurations.value
+sys.configurations.value_in_use

@@ -1,0 +1,8 @@
+sys.routes.address
+sys.routes.broker_instance
+sys.routes.lifetime
+sys.routes.mirror_address
+sys.routes.name
+sys.routes.principal_id
+sys.routes.remote_service_name
+sys.routes.route_id

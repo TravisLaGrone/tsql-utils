@@ -1,0 +1,16 @@
+sys.dm_db_xtp_index_stats.index_id
+sys.dm_db_xtp_index_stats.object_address
+sys.dm_db_xtp_index_stats.object_id
+sys.dm_db_xtp_index_stats.phantom_expired_removed_rows_encountered
+sys.dm_db_xtp_index_stats.phantom_expired_rows_removed
+sys.dm_db_xtp_index_stats.phantom_expiring_rows_encountered
+sys.dm_db_xtp_index_stats.phantom_rows_touched
+sys.dm_db_xtp_index_stats.phantom_scans_retries
+sys.dm_db_xtp_index_stats.phantom_scans_started
+sys.dm_db_xtp_index_stats.rows_expired
+sys.dm_db_xtp_index_stats.rows_expired_removed
+sys.dm_db_xtp_index_stats.rows_expiring
+sys.dm_db_xtp_index_stats.rows_returned
+sys.dm_db_xtp_index_stats.rows_touched
+sys.dm_db_xtp_index_stats.scans_retries
+sys.dm_db_xtp_index_stats.scans_started

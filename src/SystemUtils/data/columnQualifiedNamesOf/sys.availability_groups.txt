@@ -1,0 +1,8 @@
+sys.availability_groups.automated_backup_preference
+sys.availability_groups.automated_backup_preference_desc
+sys.availability_groups.failure_condition_level
+sys.availability_groups.group_id
+sys.availability_groups.health_check_timeout
+sys.availability_groups.name
+sys.availability_groups.resource_group_id
+sys.availability_groups.resource_id

@@ -1,0 +1,4 @@
+sys.sysconfigures.comment
+sys.sysconfigures.config
+sys.sysconfigures.status
+sys.sysconfigures.value

@@ -1,0 +1,5 @@
+sys.fulltext_stoplists.create_date
+sys.fulltext_stoplists.modify_date
+sys.fulltext_stoplists.name
+sys.fulltext_stoplists.principal_id
+sys.fulltext_stoplists.stoplist_id

@@ -1,0 +1,4 @@
+sys.trace_subclass_values.subclass_name
+sys.trace_subclass_values.subclass_value
+sys.trace_subclass_values.trace_column_id
+sys.trace_subclass_values.trace_event_id

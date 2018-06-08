@@ -1,0 +1,15 @@
+sys.xml_schema_model_groups.base_xml_component_id
+sys.xml_schema_model_groups.compositor
+sys.xml_schema_model_groups.compositor_desc
+sys.xml_schema_model_groups.derivation
+sys.xml_schema_model_groups.derivation_desc
+sys.xml_schema_model_groups.is_qualified
+sys.xml_schema_model_groups.kind
+sys.xml_schema_model_groups.kind_desc
+sys.xml_schema_model_groups.name
+sys.xml_schema_model_groups.scoping_xml_component_id
+sys.xml_schema_model_groups.symbol_space
+sys.xml_schema_model_groups.symbol_space_desc
+sys.xml_schema_model_groups.xml_collection_id
+sys.xml_schema_model_groups.xml_component_id
+sys.xml_schema_model_groups.xml_namespace_id

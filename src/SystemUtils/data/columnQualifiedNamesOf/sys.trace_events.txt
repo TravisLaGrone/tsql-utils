@@ -1,0 +1,3 @@
+sys.trace_events.category_id
+sys.trace_events.name
+sys.trace_events.trace_event_id

@@ -1,0 +1,11 @@
+sys.syspermissions.actadd
+sys.syspermissions.actmod
+sys.syspermissions.grantee
+sys.syspermissions.grantor
+sys.syspermissions.id
+sys.syspermissions.refadd
+sys.syspermissions.refmod
+sys.syspermissions.seladd
+sys.syspermissions.selmod
+sys.syspermissions.updadd
+sys.syspermissions.updmod

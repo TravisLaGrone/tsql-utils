@@ -1,0 +1,9 @@
+sys.dm_xe_objects.capabilities
+sys.dm_xe_objects.capabilities_desc
+sys.dm_xe_objects.description
+sys.dm_xe_objects.name
+sys.dm_xe_objects.object_type
+sys.dm_xe_objects.package_guid
+sys.dm_xe_objects.type_name
+sys.dm_xe_objects.type_package_guid
+sys.dm_xe_objects.type_size

@@ -1,0 +1,10 @@
+sys.syscomments.colid
+sys.syscomments.compressed
+sys.syscomments.ctext
+sys.syscomments.encrypted
+sys.syscomments.id
+sys.syscomments.language
+sys.syscomments.number
+sys.syscomments.status
+sys.syscomments.text
+sys.syscomments.texttype

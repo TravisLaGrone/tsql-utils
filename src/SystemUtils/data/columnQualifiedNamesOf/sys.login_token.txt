@@ -1,0 +1,5 @@
+sys.login_token.name
+sys.login_token.principal_id
+sys.login_token.sid
+sys.login_token.type
+sys.login_token.usage

@@ -1,0 +1,7 @@
+sys.dm_db_xtp_object_stats.object_address
+sys.dm_db_xtp_object_stats.object_id
+sys.dm_db_xtp_object_stats.row_delete_attempts
+sys.dm_db_xtp_object_stats.row_insert_attempts
+sys.dm_db_xtp_object_stats.row_update_attempts
+sys.dm_db_xtp_object_stats.unique_constraint_violations
+sys.dm_db_xtp_object_stats.write_conflicts

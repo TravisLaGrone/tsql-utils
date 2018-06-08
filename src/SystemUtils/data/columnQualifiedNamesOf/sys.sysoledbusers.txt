@@ -1,0 +1,6 @@
+sys.sysoledbusers.changedate
+sys.sysoledbusers.loginsid
+sys.sysoledbusers.rmtloginame
+sys.sysoledbusers.rmtpassword
+sys.sysoledbusers.rmtsrvid
+sys.sysoledbusers.status

@@ -1,0 +1,3 @@
+sys.dm_clr_loaded_assemblies.appdomain_address
+sys.dm_clr_loaded_assemblies.assembly_id
+sys.dm_clr_loaded_assemblies.load_time

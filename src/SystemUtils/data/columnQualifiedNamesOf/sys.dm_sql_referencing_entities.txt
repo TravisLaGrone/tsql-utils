@@ -1,0 +1,6 @@
+sys.dm_sql_referencing_entities.is_caller_dependent
+sys.dm_sql_referencing_entities.referencing_class
+sys.dm_sql_referencing_entities.referencing_class_desc
+sys.dm_sql_referencing_entities.referencing_entity_name
+sys.dm_sql_referencing_entities.referencing_id
+sys.dm_sql_referencing_entities.referencing_schema_name

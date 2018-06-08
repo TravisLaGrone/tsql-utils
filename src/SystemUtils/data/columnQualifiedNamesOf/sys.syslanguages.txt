@@ -1,0 +1,11 @@
+sys.syslanguages.alias
+sys.syslanguages.datefirst
+sys.syslanguages.dateformat
+sys.syslanguages.days
+sys.syslanguages.langid
+sys.syslanguages.lcid
+sys.syslanguages.months
+sys.syslanguages.msglangid
+sys.syslanguages.name
+sys.syslanguages.shortmonths
+sys.syslanguages.upgrade

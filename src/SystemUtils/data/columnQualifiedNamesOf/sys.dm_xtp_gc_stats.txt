@@ -1,0 +1,13 @@
+sys.dm_xtp_gc_stats.idle_worker_count
+sys.dm_xtp_gc_stats.parallel_assist_count
+sys.dm_xtp_gc_stats.rows_examined
+sys.dm_xtp_gc_stats.rows_first_in_bucket
+sys.dm_xtp_gc_stats.rows_first_in_bucket_removed
+sys.dm_xtp_gc_stats.rows_marked_for_unlink
+sys.dm_xtp_gc_stats.rows_no_sweep_needed
+sys.dm_xtp_gc_stats.sweep_rows_expired
+sys.dm_xtp_gc_stats.sweep_rows_expired_removed
+sys.dm_xtp_gc_stats.sweep_rows_expiring
+sys.dm_xtp_gc_stats.sweep_rows_touched
+sys.dm_xtp_gc_stats.sweep_scan_retries
+sys.dm_xtp_gc_stats.sweep_scans_started

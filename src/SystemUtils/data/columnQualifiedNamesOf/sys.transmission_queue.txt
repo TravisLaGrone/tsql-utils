@@ -1,0 +1,13 @@
+sys.transmission_queue.conversation_handle
+sys.transmission_queue.enqueue_time
+sys.transmission_queue.from_service_name
+sys.transmission_queue.is_conversation_error
+sys.transmission_queue.is_end_of_dialog
+sys.transmission_queue.message_body
+sys.transmission_queue.message_sequence_number
+sys.transmission_queue.message_type_name
+sys.transmission_queue.priority
+sys.transmission_queue.service_contract_name
+sys.transmission_queue.to_broker_instance
+sys.transmission_queue.to_service_name
+sys.transmission_queue.transmission_status

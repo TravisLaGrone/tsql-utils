@@ -1,0 +1,5 @@
+sys.key_encryptions.crypt_property
+sys.key_encryptions.crypt_type
+sys.key_encryptions.crypt_type_desc
+sys.key_encryptions.key_id
+sys.key_encryptions.thumbprint

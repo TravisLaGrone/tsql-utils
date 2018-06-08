@@ -1,0 +1,6 @@
+sys.dm_broker_queue_monitors.database_id
+sys.dm_broker_queue_monitors.last_activated_time
+sys.dm_broker_queue_monitors.last_empty_rowset_time
+sys.dm_broker_queue_monitors.queue_id
+sys.dm_broker_queue_monitors.state
+sys.dm_broker_queue_monitors.tasks_waiting

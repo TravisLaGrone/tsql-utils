@@ -1,0 +1,5 @@
+sys.fn_get_sql.dbid
+sys.fn_get_sql.encrypted
+sys.fn_get_sql.number
+sys.fn_get_sql.objectid
+sys.fn_get_sql.text

@@ -1,0 +1,2 @@
+sys.type_assembly_usages.assembly_id
+sys.type_assembly_usages.user_type_id

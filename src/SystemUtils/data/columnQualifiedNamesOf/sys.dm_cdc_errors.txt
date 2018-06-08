@@ -1,0 +1,10 @@
+sys.dm_cdc_errors.begin_lsn
+sys.dm_cdc_errors.entry_time
+sys.dm_cdc_errors.error_message
+sys.dm_cdc_errors.error_number
+sys.dm_cdc_errors.error_severity
+sys.dm_cdc_errors.error_state
+sys.dm_cdc_errors.phase_number
+sys.dm_cdc_errors.sequence_value
+sys.dm_cdc_errors.session_id
+sys.dm_cdc_errors.start_lsn

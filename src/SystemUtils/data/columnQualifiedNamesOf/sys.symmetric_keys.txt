@@ -1,0 +1,13 @@
+sys.symmetric_keys.algorithm_desc
+sys.symmetric_keys.create_date
+sys.symmetric_keys.cryptographic_provider_algid
+sys.symmetric_keys.cryptographic_provider_guid
+sys.symmetric_keys.key_algorithm
+sys.symmetric_keys.key_guid
+sys.symmetric_keys.key_length
+sys.symmetric_keys.key_thumbprint
+sys.symmetric_keys.modify_date
+sys.symmetric_keys.name
+sys.symmetric_keys.principal_id
+sys.symmetric_keys.provider_type
+sys.symmetric_keys.symmetric_key_id

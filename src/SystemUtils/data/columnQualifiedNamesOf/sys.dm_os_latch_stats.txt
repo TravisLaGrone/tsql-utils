@@ -1,0 +1,4 @@
+sys.dm_os_latch_stats.latch_class
+sys.dm_os_latch_stats.max_wait_time_ms
+sys.dm_os_latch_stats.wait_time_ms
+sys.dm_os_latch_stats.waiting_requests_count

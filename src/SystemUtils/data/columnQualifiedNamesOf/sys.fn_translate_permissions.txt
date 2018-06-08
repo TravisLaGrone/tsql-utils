@@ -1,0 +1,2 @@
+sys.fn_translate_permissions.permission_name
+sys.fn_translate_permissions.type

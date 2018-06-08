@@ -1,0 +1,14 @@
+sys.key_constraints.create_date
+sys.key_constraints.is_ms_shipped
+sys.key_constraints.is_published
+sys.key_constraints.is_schema_published
+sys.key_constraints.is_system_named
+sys.key_constraints.modify_date
+sys.key_constraints.name
+sys.key_constraints.object_id
+sys.key_constraints.parent_object_id
+sys.key_constraints.principal_id
+sys.key_constraints.schema_id
+sys.key_constraints.type
+sys.key_constraints.type_desc
+sys.key_constraints.unique_index_id

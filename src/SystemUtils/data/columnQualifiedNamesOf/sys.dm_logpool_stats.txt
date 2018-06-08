@@ -1,0 +1,10 @@
+sys.dm_logpool_stats.hash_bucket_count
+sys.dm_logpool_stats.hash_hit_total_search_length
+sys.dm_logpool_stats.hash_hits
+sys.dm_logpool_stats.hash_miss_total_search_length
+sys.dm_logpool_stats.hash_misses
+sys.dm_logpool_stats.logpoolmgr_count
+sys.dm_logpool_stats.mem_status
+sys.dm_logpool_stats.mem_status_stamp
+sys.dm_logpool_stats.private_pages
+sys.dm_logpool_stats.total_pages

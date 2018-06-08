@@ -1,0 +1,9 @@
+sys.dm_db_script_level.database_id
+sys.dm_db_script_level.downgrade_start_level
+sys.dm_db_script_level.downgrade_target_level
+sys.dm_db_script_level.script_id
+sys.dm_db_script_level.script_level
+sys.dm_db_script_level.script_name
+sys.dm_db_script_level.upgrade_start_level
+sys.dm_db_script_level.upgrade_target_level
+sys.dm_db_script_level.version

@@ -1,0 +1,4 @@
+sys.service_contract_message_usages.is_sent_by_initiator
+sys.service_contract_message_usages.is_sent_by_target
+sys.service_contract_message_usages.message_type_id
+sys.service_contract_message_usages.service_contract_id

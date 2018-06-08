@@ -1,0 +1,12 @@
+sys.dm_xtp_transaction_recent_rows.after_begin
+sys.dm_xtp_transaction_recent_rows.after_end
+sys.dm_xtp_transaction_recent_rows.after_links
+sys.dm_xtp_transaction_recent_rows.after_time
+sys.dm_xtp_transaction_recent_rows.before_begin
+sys.dm_xtp_transaction_recent_rows.before_end
+sys.dm_xtp_transaction_recent_rows.before_links
+sys.dm_xtp_transaction_recent_rows.before_time
+sys.dm_xtp_transaction_recent_rows.outcome
+sys.dm_xtp_transaction_recent_rows.row_address
+sys.dm_xtp_transaction_recent_rows.table_address
+sys.dm_xtp_transaction_recent_rows.xtp_transaction_id

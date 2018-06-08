@@ -1,0 +1,4 @@
+sys.dm_os_cluster_nodes.is_current_owner
+sys.dm_os_cluster_nodes.NodeName
+sys.dm_os_cluster_nodes.status
+sys.dm_os_cluster_nodes.status_description

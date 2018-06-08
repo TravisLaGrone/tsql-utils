@@ -1,0 +1,9 @@
+sys.column_store_dictionaries.column_id
+sys.column_store_dictionaries.dictionary_id
+sys.column_store_dictionaries.entry_count
+sys.column_store_dictionaries.hobt_id
+sys.column_store_dictionaries.last_id
+sys.column_store_dictionaries.on_disk_size
+sys.column_store_dictionaries.partition_id
+sys.column_store_dictionaries.type
+sys.column_store_dictionaries.version

@@ -1,0 +1,6 @@
+sys.server_audit_specifications.audit_guid
+sys.server_audit_specifications.create_date
+sys.server_audit_specifications.is_state_enabled
+sys.server_audit_specifications.modify_date
+sys.server_audit_specifications.name
+sys.server_audit_specifications.server_specification_id

@@ -1,0 +1,5 @@
+sys.sysremotelogins.changedate
+sys.sysremotelogins.remoteserverid
+sys.sysremotelogins.remoteusername
+sys.sysremotelogins.sid
+sys.sysremotelogins.status

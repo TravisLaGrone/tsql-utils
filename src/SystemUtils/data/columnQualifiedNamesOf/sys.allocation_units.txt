@@ -1,0 +1,8 @@
+sys.allocation_units.allocation_unit_id
+sys.allocation_units.container_id
+sys.allocation_units.data_pages
+sys.allocation_units.data_space_id
+sys.allocation_units.total_pages
+sys.allocation_units.type
+sys.allocation_units.type_desc
+sys.allocation_units.used_pages

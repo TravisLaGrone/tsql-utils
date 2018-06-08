@@ -1,0 +1,3 @@
+sys.dm_os_stacks.frame_address
+sys.dm_os_stacks.frame_index
+sys.dm_os_stacks.stack_address

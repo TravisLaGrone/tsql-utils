@@ -1,0 +1,13 @@
+sys.xml_schema_components.base_xml_component_id
+sys.xml_schema_components.derivation
+sys.xml_schema_components.derivation_desc
+sys.xml_schema_components.is_qualified
+sys.xml_schema_components.kind
+sys.xml_schema_components.kind_desc
+sys.xml_schema_components.name
+sys.xml_schema_components.scoping_xml_component_id
+sys.xml_schema_components.symbol_space
+sys.xml_schema_components.symbol_space_desc
+sys.xml_schema_components.xml_collection_id
+sys.xml_schema_components.xml_component_id
+sys.xml_schema_components.xml_namespace_id

@@ -1,0 +1,11 @@
+sys.server_triggers.create_date
+sys.server_triggers.is_disabled
+sys.server_triggers.is_ms_shipped
+sys.server_triggers.modify_date
+sys.server_triggers.name
+sys.server_triggers.object_id
+sys.server_triggers.parent_class
+sys.server_triggers.parent_class_desc
+sys.server_triggers.parent_id
+sys.server_triggers.type
+sys.server_triggers.type_desc

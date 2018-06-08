@@ -1,0 +1,3 @@
+sys.trigger_event_types.parent_type
+sys.trigger_event_types.type
+sys.trigger_event_types.type_name

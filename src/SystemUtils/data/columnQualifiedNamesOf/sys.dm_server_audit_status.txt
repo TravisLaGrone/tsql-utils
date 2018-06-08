@@ -1,0 +1,8 @@
+sys.dm_server_audit_status.audit_file_path
+sys.dm_server_audit_status.audit_file_size
+sys.dm_server_audit_status.audit_id
+sys.dm_server_audit_status.event_session_address
+sys.dm_server_audit_status.name
+sys.dm_server_audit_status.status
+sys.dm_server_audit_status.status_desc
+sys.dm_server_audit_status.status_time

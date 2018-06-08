@@ -1,0 +1,5 @@
+sys.sysperfinfo.cntr_type
+sys.sysperfinfo.cntr_value
+sys.sysperfinfo.counter_name
+sys.sysperfinfo.instance_name
+sys.sysperfinfo.object_name

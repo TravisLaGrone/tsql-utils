@@ -1,0 +1,2 @@
+sys.filetable_system_defined_objects.object_id
+sys.filetable_system_defined_objects.parent_object_id

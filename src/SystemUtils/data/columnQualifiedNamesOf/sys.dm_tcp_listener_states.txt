@@ -1,0 +1,9 @@
+sys.dm_tcp_listener_states.ip_address
+sys.dm_tcp_listener_states.is_ipv4
+sys.dm_tcp_listener_states.listener_id
+sys.dm_tcp_listener_states.port
+sys.dm_tcp_listener_states.start_time
+sys.dm_tcp_listener_states.state
+sys.dm_tcp_listener_states.state_desc
+sys.dm_tcp_listener_states.type
+sys.dm_tcp_listener_states.type_desc

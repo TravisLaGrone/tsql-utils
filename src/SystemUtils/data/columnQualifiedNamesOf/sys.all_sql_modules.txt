@@ -1,0 +1,10 @@
+sys.all_sql_modules.definition
+sys.all_sql_modules.execute_as_principal_id
+sys.all_sql_modules.is_recompiled
+sys.all_sql_modules.is_schema_bound
+sys.all_sql_modules.null_on_null_input
+sys.all_sql_modules.object_id
+sys.all_sql_modules.uses_ansi_nulls
+sys.all_sql_modules.uses_database_collation
+sys.all_sql_modules.uses_native_compilation
+sys.all_sql_modules.uses_quoted_identifier
