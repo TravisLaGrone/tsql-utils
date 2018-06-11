@@ -1,8 +1,8 @@
 SELECT
-    sch.name AS [schema_name],
-    obj.name AS [object_name],
-    con.name AS primary_key_name,
-    col.name AS column_name
+    sch.[name] AS [schema_name],
+    obj.[name] AS [object_name],
+    con.[name] AS primary_key_name,
+    col.[name] AS column_name
 FROM sys.columns AS col
     INNER JOIN sys.index_columns AS idx_col
         ON  idx_col.[object_id] = col.[object_id]
@@ -19,5 +19,9 @@ FROM sys.columns AS col
         AND con.unique_index_id = idx.index_id
 WHERE
     idx.is_primary_key = 1
-    AND sch.name <> 'sys'
-    
+    AND sch.[name] <> 'sys'
+ORDER BY
+    sch.[name],
+    obj.[name],
+    con.[name],
+    idx_col.key_ordinal
