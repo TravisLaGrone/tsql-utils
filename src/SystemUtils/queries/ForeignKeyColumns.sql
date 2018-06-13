@@ -144,11 +144,11 @@ FROM sys.foreign_key_columns AS fkc
     OUTER APPLY sys.fn_listextendedproperty(
             'MS_Description',
             'SCHEMA',
-            par_sch.[name],
+            ref_sch.[name],
             'TABLE',  -- ASSUMPTION: only tables may be referenced by foreign keys
-            par_obj.[name],
+            ref_obj.[name],
             'COLUMN',
-            par_col.[name]
+            ref_col.[name]
         ) AS ref_ep_col
 ORDER BY
     par_sch.name,
