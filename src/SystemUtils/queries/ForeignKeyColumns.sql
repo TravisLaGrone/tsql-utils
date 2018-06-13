@@ -109,7 +109,7 @@ SELECT
     ref_typ.default_object_id   AS referenced_column_type_default_object_id,
     ref_typ.rule_object_id      AS referenced_column_type_rule_object_id,
 
-    CONVERT(nvarchar(MAX), ref_ep_col.[value]) AS parent_column_MS_Description
+    CONVERT(nvarchar(MAX), ref_ep_col.[value]) AS referenced_column_MS_Description
 
 FROM sys.foreign_key_columns AS fkc
 
