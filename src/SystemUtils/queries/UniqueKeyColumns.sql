@@ -1,9 +1,10 @@
+-- NOTE: This query encompasses all unique keys, whether or not they are also primary keys.
 SELECT
     sch.[name] AS [schema_name],
     tbl.[name] AS [object_name],
     tbl.[type_desc] AS object_type_desc,
     key_con.[name] AS constraint_name,
-    key_con.is_system_named AS constraint_is_system_named,
+    key_con.is_system_named AS constraint_is_system_named
     idx.[name] AS index_name,
     col.[name] AS column_name,
     CASE
@@ -26,7 +27,21 @@ SELECT
     col.is_nullable AS column_is_nullable,
     col.is_rowguidcol AS column_is_rowguidcol,
     col.is_identity AS column_is_identity,
-    col.is_computed AS column_is_computed,
+    col.is_computed AS column_is_computed
+    CASE
+        WHEN EXISTS(
+            SELECT *
+            FROM sys.index_columns AS idx_col_
+                INNER JOIN sys.indexes AS idx_
+                    ON  idx_.object_id = idx_col_.object_id
+                    AND idx_.index_id  = idx_col_.index_id
+            WHERE
+                idx_col_.object_id = col.object_id
+                AND idx_col_.column_id = col.column_id
+                AND idx_.is_primary_key = 1
+        ) THEN 1
+        ELSE 0
+    END AS column_is_part_of_primary_key,
     CASE
         WHEN EXISTS(
             SELECT *
@@ -53,18 +68,18 @@ FROM sys.columns AS col
         ON  idx_col.[object_id] = col.[object_id]
         AND idx_col.column_id = col.column_id
     INNER JOIN sys.indexes AS idx
-    	ON	idx.[object_id] = idx_col.[object_id]
+        ON  idx.[object_id] = idx_col.[object_id]
         AND idx.index_id  = idx_col.index_id
     LEFT JOIN sys.key_constraints AS key_con
-        ON  key_con.[object_id] = idx.[object_id]
-        AND key_con.unique_index_id = idx.index_id
+        ON  key_con.parent_[object_id] = idx.[object_id]
+        AND key_con.unique_index_id  = idx.index_id
     INNER JOIN sys.tables AS tbl
-    	ON	tbl.[object_id] = idx.[object_id]
+        ON  tbl.[object_id] = idx.[object_id]
     INNER JOIN sys.schemas AS sch
-    	ON	sch.[schema_id] = tbl.[schema_id]
+        ON  sch.[schema_id] = tbl.[schema_id]
     OUTER APPLY sys.fn_listextendedproperty('MS_Description', 'SCHEMA', sch.name, 'TABLE', tbl.name, 'COLUMN', col.name) AS ep
 WHERE
-    idx.is_primary_key = 1
+    idx.is_unique = 1
     AND sch.[name] <> 'sys'
 ORDER BY
     sch.[name],
