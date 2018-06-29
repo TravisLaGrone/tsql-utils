@@ -1,2 +1,0 @@
-sys.fn_trace_geteventinfo.columnid
-sys.fn_trace_geteventinfo.eventid

@@ -1,3 +1,0 @@
-sys.dm_os_sublatches.partition_id
-sys.dm_os_sublatches.sublatch_address
-sys.dm_os_sublatches.superlatch_address

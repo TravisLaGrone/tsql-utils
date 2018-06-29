@@ -1,4 +1,0 @@
-sys.fn_virtualservernodes.is_current_owner
-sys.fn_virtualservernodes.NodeName
-sys.fn_virtualservernodes.status
-sys.fn_virtualservernodes.status_description

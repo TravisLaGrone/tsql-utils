@@ -1,3 +1,0 @@
-sys.trace_xe_event_map.package_name
-sys.trace_xe_event_map.trace_event_id
-sys.trace_xe_event_map.xe_event_name

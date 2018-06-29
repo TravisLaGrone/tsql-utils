@@ -1,3 +1,0 @@
-sys.dm_exec_input_buffer.event_info
-sys.dm_exec_input_buffer.event_type
-sys.dm_exec_input_buffer.parameters

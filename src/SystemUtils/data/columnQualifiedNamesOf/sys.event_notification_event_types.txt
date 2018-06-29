@@ -1,3 +1,0 @@
-sys.event_notification_event_types.parent_type
-sys.event_notification_event_types.type
-sys.event_notification_event_types.type_name

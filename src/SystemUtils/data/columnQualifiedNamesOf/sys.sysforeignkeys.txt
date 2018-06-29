@@ -1,6 +1,0 @@
-sys.sysforeignkeys.constid
-sys.sysforeignkeys.fkey
-sys.sysforeignkeys.fkeyid
-sys.sysforeignkeys.keyno
-sys.sysforeignkeys.rkey
-sys.sysforeignkeys.rkeyid

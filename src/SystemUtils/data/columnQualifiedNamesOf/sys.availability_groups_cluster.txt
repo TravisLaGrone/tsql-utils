@@ -1,8 +1,0 @@
-sys.availability_groups_cluster.automated_backup_preference
-sys.availability_groups_cluster.automated_backup_preference_desc
-sys.availability_groups_cluster.failure_condition_level
-sys.availability_groups_cluster.group_id
-sys.availability_groups_cluster.health_check_timeout
-sys.availability_groups_cluster.name
-sys.availability_groups_cluster.resource_group_id
-sys.availability_groups_cluster.resource_id

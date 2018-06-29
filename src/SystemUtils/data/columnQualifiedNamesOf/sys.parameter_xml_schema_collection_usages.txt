@@ -1,3 +1,0 @@
-sys.parameter_xml_schema_collection_usages.object_id
-sys.parameter_xml_schema_collection_usages.parameter_id
-sys.parameter_xml_schema_collection_usages.xml_collection_id

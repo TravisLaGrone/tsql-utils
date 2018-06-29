@@ -1,3 +1,0 @@
-sys.dm_hadr_availability_replica_cluster_nodes.group_name
-sys.dm_hadr_availability_replica_cluster_nodes.node_name
-sys.dm_hadr_availability_replica_cluster_nodes.replica_server_name

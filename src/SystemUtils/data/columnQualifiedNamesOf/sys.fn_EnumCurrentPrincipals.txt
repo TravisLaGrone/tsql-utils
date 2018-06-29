@@ -1,4 +1,0 @@
-sys.fn_EnumCurrentPrincipals.current_principal
-sys.fn_EnumCurrentPrincipals.db_name
-sys.fn_EnumCurrentPrincipals.mirroring_role
-sys.fn_EnumCurrentPrincipals.mirroring_state

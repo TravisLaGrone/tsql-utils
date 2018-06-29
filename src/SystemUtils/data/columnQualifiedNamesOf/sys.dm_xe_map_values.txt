@@ -1,4 +1,0 @@
-sys.dm_xe_map_values.map_key
-sys.dm_xe_map_values.map_value
-sys.dm_xe_map_values.name
-sys.dm_xe_map_values.object_package_guid

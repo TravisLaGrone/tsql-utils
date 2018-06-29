@@ -1,6 +1,0 @@
-sys.fn_builtin_permissions.class_desc
-sys.fn_builtin_permissions.covering_permission_name
-sys.fn_builtin_permissions.parent_class_desc
-sys.fn_builtin_permissions.parent_covering_permission_name
-sys.fn_builtin_permissions.permission_name
-sys.fn_builtin_permissions.type

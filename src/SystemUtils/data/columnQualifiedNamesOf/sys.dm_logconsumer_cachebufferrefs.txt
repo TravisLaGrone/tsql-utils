@@ -1,8 +1,0 @@
-sys.dm_logconsumer_cachebufferrefs.cache_buffer
-sys.dm_logconsumer_cachebufferrefs.consumer_id
-sys.dm_logconsumer_cachebufferrefs.database_id
-sys.dm_logconsumer_cachebufferrefs.last_log_block_id
-sys.dm_logconsumer_cachebufferrefs.recovery_unit_id
-sys.dm_logconsumer_cachebufferrefs.ref_counter
-sys.dm_logconsumer_cachebufferrefs.shared
-sys.dm_logconsumer_cachebufferrefs.start_log_block_id

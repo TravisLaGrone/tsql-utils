@@ -1,6 +1,0 @@
-sys.dm_hadr_auto_page_repair.database_id
-sys.dm_hadr_auto_page_repair.error_type
-sys.dm_hadr_auto_page_repair.file_id
-sys.dm_hadr_auto_page_repair.modification_time
-sys.dm_hadr_auto_page_repair.page_id
-sys.dm_hadr_auto_page_repair.page_status

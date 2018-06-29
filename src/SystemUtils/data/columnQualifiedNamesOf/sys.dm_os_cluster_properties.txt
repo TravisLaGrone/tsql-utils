@@ -1,6 +1,0 @@
-sys.dm_os_cluster_properties.FailureConditionLevel
-sys.dm_os_cluster_properties.HealthCheckTimeout
-sys.dm_os_cluster_properties.SqlDumperDumpFlags
-sys.dm_os_cluster_properties.SqlDumperDumpPath
-sys.dm_os_cluster_properties.SqlDumperDumpTimeOut
-sys.dm_os_cluster_properties.VerboseLogging

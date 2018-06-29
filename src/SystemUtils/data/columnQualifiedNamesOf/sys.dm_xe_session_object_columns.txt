@@ -1,7 +1,0 @@
-sys.dm_xe_session_object_columns.column_id
-sys.dm_xe_session_object_columns.column_name
-sys.dm_xe_session_object_columns.column_value
-sys.dm_xe_session_object_columns.event_session_address
-sys.dm_xe_session_object_columns.object_name
-sys.dm_xe_session_object_columns.object_package_guid
-sys.dm_xe_session_object_columns.object_type

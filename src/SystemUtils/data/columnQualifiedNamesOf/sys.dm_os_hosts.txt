@@ -1,9 +1,0 @@
-sys.dm_os_hosts.active_ios_count
-sys.dm_os_hosts.active_tasks_count
-sys.dm_os_hosts.completed_ios_count
-sys.dm_os_hosts.completed_ios_in_bytes
-sys.dm_os_hosts.default_memory_clerk_address
-sys.dm_os_hosts.enqueued_tasks_count
-sys.dm_os_hosts.host_address
-sys.dm_os_hosts.name
-sys.dm_os_hosts.type

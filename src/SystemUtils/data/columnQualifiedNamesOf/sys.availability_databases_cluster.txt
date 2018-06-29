@@ -1,4 +1,0 @@
-sys.availability_databases_cluster.database_name
-sys.availability_databases_cluster.group_database_id
-sys.availability_databases_cluster.group_id
-sys.availability_databases_cluster.truncation_lsn

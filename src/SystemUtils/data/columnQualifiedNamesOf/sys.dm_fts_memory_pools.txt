@@ -1,5 +1,0 @@
-sys.dm_fts_memory_pools.buffer_count
-sys.dm_fts_memory_pools.buffer_size
-sys.dm_fts_memory_pools.max_buffer_limit
-sys.dm_fts_memory_pools.min_buffer_limit
-sys.dm_fts_memory_pools.pool_id

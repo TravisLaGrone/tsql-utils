@@ -1,4 +1,0 @@
-sys.function_order_columns.column_id
-sys.function_order_columns.is_descending
-sys.function_order_columns.object_id
-sys.function_order_columns.order_column_id

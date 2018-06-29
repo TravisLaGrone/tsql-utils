@@ -1,7 +1,0 @@
-sys.dm_fts_memory_buffers.bytes_used
-sys.dm_fts_memory_buffers.is_free
-sys.dm_fts_memory_buffers.memory_address
-sys.dm_fts_memory_buffers.name
-sys.dm_fts_memory_buffers.percent_used
-sys.dm_fts_memory_buffers.pool_id
-sys.dm_fts_memory_buffers.row_count

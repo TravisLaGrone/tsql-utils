@@ -1,3 +1,0 @@
-sys.fn_PhysLocCracker.file_id
-sys.fn_PhysLocCracker.page_id
-sys.fn_PhysLocCracker.slot_id

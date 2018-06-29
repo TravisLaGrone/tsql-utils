@@ -1,2 +1,0 @@
-sys.fulltext_system_stopwords.language_id
-sys.fulltext_system_stopwords.stopword

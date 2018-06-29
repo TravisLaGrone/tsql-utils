@@ -1,8 +1,0 @@
-sys.syscharsets.binarydefinition
-sys.syscharsets.csid
-sys.syscharsets.definition
-sys.syscharsets.description
-sys.syscharsets.id
-sys.syscharsets.name
-sys.syscharsets.status
-sys.syscharsets.type

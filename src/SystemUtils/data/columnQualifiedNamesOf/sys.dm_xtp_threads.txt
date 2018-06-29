@@ -1,5 +1,0 @@
-sys.dm_xtp_threads.retired_row_count
-sys.dm_xtp_threads.retired_transaction_count
-sys.dm_xtp_threads.thread_address
-sys.dm_xtp_threads.thread_type
-sys.dm_xtp_threads.thread_type_desc

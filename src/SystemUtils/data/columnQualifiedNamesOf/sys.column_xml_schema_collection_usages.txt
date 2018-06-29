@@ -1,3 +1,0 @@
-sys.column_xml_schema_collection_usages.column_id
-sys.column_xml_schema_collection_usages.object_id
-sys.column_xml_schema_collection_usages.xml_collection_id

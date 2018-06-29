@@ -1,3 +1,0 @@
-sys.availability_read_only_routing_lists.read_only_replica_id
-sys.availability_read_only_routing_lists.replica_id
-sys.availability_read_only_routing_lists.routing_priority

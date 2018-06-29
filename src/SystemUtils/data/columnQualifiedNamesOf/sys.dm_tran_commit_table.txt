@@ -1,5 +1,0 @@
-sys.dm_tran_commit_table.commit_csn
-sys.dm_tran_commit_table.commit_lbn
-sys.dm_tran_commit_table.commit_time
-sys.dm_tran_commit_table.commit_ts
-sys.dm_tran_commit_table.xdes_id

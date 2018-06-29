@@ -1,7 +1,0 @@
-sys.dm_os_memory_cache_counters.cache_address
-sys.dm_os_memory_cache_counters.entries_count
-sys.dm_os_memory_cache_counters.entries_in_use_count
-sys.dm_os_memory_cache_counters.name
-sys.dm_os_memory_cache_counters.pages_in_use_kb
-sys.dm_os_memory_cache_counters.pages_kb
-sys.dm_os_memory_cache_counters.type

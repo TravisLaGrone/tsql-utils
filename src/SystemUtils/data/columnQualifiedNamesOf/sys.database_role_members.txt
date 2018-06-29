@@ -1,2 +1,0 @@
-sys.database_role_members.member_principal_id
-sys.database_role_members.role_principal_id

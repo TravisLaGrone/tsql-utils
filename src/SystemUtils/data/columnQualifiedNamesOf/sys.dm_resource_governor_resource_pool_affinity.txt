@@ -1,3 +1,0 @@
-sys.dm_resource_governor_resource_pool_affinity.pool_id
-sys.dm_resource_governor_resource_pool_affinity.processor_group
-sys.dm_resource_governor_resource_pool_affinity.scheduler_mask

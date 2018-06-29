@@ -1,5 +1,0 @@
-sys.sysmessages.description
-sys.sysmessages.dlevel
-sys.sysmessages.error
-sys.sysmessages.msglangid
-sys.sysmessages.severity

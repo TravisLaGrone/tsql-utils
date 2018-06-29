@@ -1,5 +1,0 @@
-sys.dm_exec_query_plan.dbid
-sys.dm_exec_query_plan.encrypted
-sys.dm_exec_query_plan.number
-sys.dm_exec_query_plan.objectid
-sys.dm_exec_query_plan.query_plan

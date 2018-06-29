@@ -1,2 +1,0 @@
-sys.fn_helpcollations.description
-sys.fn_helpcollations.name

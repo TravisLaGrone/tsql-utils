@@ -1,5 +1,0 @@
-sys.dm_fts_index_keywords_by_document.column_id
-sys.dm_fts_index_keywords_by_document.display_term
-sys.dm_fts_index_keywords_by_document.document_id
-sys.dm_fts_index_keywords_by_document.keyword
-sys.dm_fts_index_keywords_by_document.occurrence_count

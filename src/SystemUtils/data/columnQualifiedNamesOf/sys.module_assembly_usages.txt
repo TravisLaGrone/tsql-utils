@@ -1,2 +1,0 @@
-sys.module_assembly_usages.assembly_id
-sys.module_assembly_usages.object_id

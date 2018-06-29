@@ -1,6 +1,0 @@
-sys.sysprotects.action
-sys.sysprotects.columns
-sys.sysprotects.grantor
-sys.sysprotects.id
-sys.sysprotects.protecttype
-sys.sysprotects.uid

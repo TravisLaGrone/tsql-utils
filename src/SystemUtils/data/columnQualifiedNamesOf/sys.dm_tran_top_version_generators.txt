@@ -1,3 +1,0 @@
-sys.dm_tran_top_version_generators.aggregated_record_length_in_bytes
-sys.dm_tran_top_version_generators.database_id
-sys.dm_tran_top_version_generators.rowset_id

@@ -1,3 +1,0 @@
-sys.dm_db_missing_index_columns.column_id
-sys.dm_db_missing_index_columns.column_name
-sys.dm_db_missing_index_columns.column_usage

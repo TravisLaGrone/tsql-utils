@@ -1,5 +1,0 @@
-sys.filetables.directory_name
-sys.filetables.filename_collation_id
-sys.filetables.filename_collation_name
-sys.filetables.is_enabled
-sys.filetables.object_id

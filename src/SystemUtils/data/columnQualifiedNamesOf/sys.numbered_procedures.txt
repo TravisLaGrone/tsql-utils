@@ -1,3 +1,0 @@
-sys.numbered_procedures.definition
-sys.numbered_procedures.object_id
-sys.numbered_procedures.procedure_number

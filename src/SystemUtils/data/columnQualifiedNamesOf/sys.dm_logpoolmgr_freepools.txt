@@ -1,7 +1,0 @@
-sys.dm_logpoolmgr_freepools.buffer_size
-sys.dm_logpoolmgr_freepools.cold_count
-sys.dm_logpoolmgr_freepools.database_id
-sys.dm_logpoolmgr_freepools.frequent
-sys.dm_logpoolmgr_freepools.occurrences
-sys.dm_logpoolmgr_freepools.recovery_unit_id
-sys.dm_logpoolmgr_freepools.warm_count

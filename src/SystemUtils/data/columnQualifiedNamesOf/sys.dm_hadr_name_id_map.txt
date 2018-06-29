@@ -1,4 +1,0 @@
-sys.dm_hadr_name_id_map.ag_group_id
-sys.dm_hadr_name_id_map.ag_id
-sys.dm_hadr_name_id_map.ag_name
-sys.dm_hadr_name_id_map.ag_resource_id

@@ -1,9 +1,0 @@
-sys.dm_db_uncontained_entities.class
-sys.dm_db_uncontained_entities.class_desc
-sys.dm_db_uncontained_entities.feature_name
-sys.dm_db_uncontained_entities.feature_type_name
-sys.dm_db_uncontained_entities.major_id
-sys.dm_db_uncontained_entities.statement_line_number
-sys.dm_db_uncontained_entities.statement_offset_begin
-sys.dm_db_uncontained_entities.statement_offset_end
-sys.dm_db_uncontained_entities.statement_type

@@ -1,5 +1,0 @@
-sys.dm_db_xtp_table_memory_stats.memory_allocated_for_indexes_kb
-sys.dm_db_xtp_table_memory_stats.memory_allocated_for_table_kb
-sys.dm_db_xtp_table_memory_stats.memory_used_by_indexes_kb
-sys.dm_db_xtp_table_memory_stats.memory_used_by_table_kb
-sys.dm_db_xtp_table_memory_stats.object_id

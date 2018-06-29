@@ -1,4 +1,0 @@
-sys.fn_validate_plan_guide.message
-sys.fn_validate_plan_guide.msgnum
-sys.fn_validate_plan_guide.severity
-sys.fn_validate_plan_guide.state

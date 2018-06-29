@@ -1,6 +1,0 @@
-sys.dm_xtp_gc_queue_stats.current_queue_depth
-sys.dm_xtp_gc_queue_stats.last_service_ticks
-sys.dm_xtp_gc_queue_stats.maximum_queue_depth
-sys.dm_xtp_gc_queue_stats.queue_id
-sys.dm_xtp_gc_queue_stats.total_dequeues
-sys.dm_xtp_gc_queue_stats.total_enqueues

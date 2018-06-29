@@ -1,6 +1,0 @@
-sys.server_events.event_group_type
-sys.server_events.event_group_type_desc
-sys.server_events.is_trigger_event
-sys.server_events.object_id
-sys.server_events.type
-sys.server_events.type_desc

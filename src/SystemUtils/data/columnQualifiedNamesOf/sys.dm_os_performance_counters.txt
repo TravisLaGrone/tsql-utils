@@ -1,5 +1,0 @@
-sys.dm_os_performance_counters.cntr_type
-sys.dm_os_performance_counters.cntr_value
-sys.dm_os_performance_counters.counter_name
-sys.dm_os_performance_counters.instance_name
-sys.dm_os_performance_counters.object_name

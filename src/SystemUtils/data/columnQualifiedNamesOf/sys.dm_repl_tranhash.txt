@@ -1,6 +1,0 @@
-sys.dm_repl_tranhash.buckets
-sys.dm_repl_tranhash.compensated_trans
-sys.dm_repl_tranhash.completed_trans
-sys.dm_repl_tranhash.first_begin_lsn
-sys.dm_repl_tranhash.hashed_trans
-sys.dm_repl_tranhash.last_commit_lsn

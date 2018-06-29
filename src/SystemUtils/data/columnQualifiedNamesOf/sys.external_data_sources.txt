@@ -1,6 +1,0 @@
-sys.external_data_sources.data_source_id
-sys.external_data_sources.job_tracker_location
-sys.external_data_sources.location
-sys.external_data_sources.name
-sys.external_data_sources.type
-sys.external_data_sources.type_desc

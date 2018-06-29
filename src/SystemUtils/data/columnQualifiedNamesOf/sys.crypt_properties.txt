@@ -1,7 +1,0 @@
-sys.crypt_properties.class
-sys.crypt_properties.class_desc
-sys.crypt_properties.crypt_property
-sys.crypt_properties.crypt_type
-sys.crypt_properties.crypt_type_desc
-sys.crypt_properties.major_id
-sys.crypt_properties.thumbprint

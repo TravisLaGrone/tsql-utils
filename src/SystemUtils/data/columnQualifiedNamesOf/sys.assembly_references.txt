@@ -1,2 +1,0 @@
-sys.assembly_references.assembly_id
-sys.assembly_references.referenced_assembly_id

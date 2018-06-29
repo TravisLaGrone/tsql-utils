@@ -1,2 +1,0 @@
-sys.server_role_members.member_principal_id
-sys.server_role_members.role_principal_id

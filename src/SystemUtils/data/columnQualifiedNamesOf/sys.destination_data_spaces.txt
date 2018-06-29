@@ -1,3 +1,0 @@
-sys.destination_data_spaces.data_space_id
-sys.destination_data_spaces.destination_id
-sys.destination_data_spaces.partition_scheme_id

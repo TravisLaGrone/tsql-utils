@@ -1,7 +1,0 @@
-sys.partition_schemes.data_space_id
-sys.partition_schemes.function_id
-sys.partition_schemes.is_default
-sys.partition_schemes.is_system
-sys.partition_schemes.name
-sys.partition_schemes.type
-sys.partition_schemes.type_desc

@@ -1,4 +1,0 @@
-sys.backup_devices.name
-sys.backup_devices.physical_name
-sys.backup_devices.type
-sys.backup_devices.type_desc

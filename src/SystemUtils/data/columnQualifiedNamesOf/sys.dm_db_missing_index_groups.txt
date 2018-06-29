@@ -1,2 +1,0 @@
-sys.dm_db_missing_index_groups.index_group_handle
-sys.dm_db_missing_index_groups.index_handle

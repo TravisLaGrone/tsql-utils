@@ -1,5 +1,0 @@
-sys.dm_xe_session_event_actions.action_name
-sys.dm_xe_session_event_actions.action_package_guid
-sys.dm_xe_session_event_actions.event_name
-sys.dm_xe_session_event_actions.event_package_guid
-sys.dm_xe_session_event_actions.event_session_address

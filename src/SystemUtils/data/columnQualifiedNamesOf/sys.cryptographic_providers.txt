@@ -1,6 +1,0 @@
-sys.cryptographic_providers.dll_path
-sys.cryptographic_providers.guid
-sys.cryptographic_providers.is_enabled
-sys.cryptographic_providers.name
-sys.cryptographic_providers.provider_id
-sys.cryptographic_providers.version

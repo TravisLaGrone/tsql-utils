@@ -1,4 +1,0 @@
-sys.partition_range_values.boundary_id
-sys.partition_range_values.function_id
-sys.partition_range_values.parameter_id
-sys.partition_range_values.value

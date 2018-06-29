@@ -1,6 +1,0 @@
-sys.dm_hadr_cluster_members.member_name
-sys.dm_hadr_cluster_members.member_state
-sys.dm_hadr_cluster_members.member_state_desc
-sys.dm_hadr_cluster_members.member_type
-sys.dm_hadr_cluster_members.member_type_desc
-sys.dm_hadr_cluster_members.number_of_quorum_votes

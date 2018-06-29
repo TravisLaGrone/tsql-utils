@@ -1,5 +1,0 @@
-sys.linked_logins.local_principal_id
-sys.linked_logins.modify_date
-sys.linked_logins.remote_name
-sys.linked_logins.server_id
-sys.linked_logins.uses_self_credential

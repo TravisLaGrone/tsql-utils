@@ -1,9 +1,0 @@
-sys.fn_sqlagent_subsystems.agent_exe
-sys.fn_sqlagent_subsystems.description_id
-sys.fn_sqlagent_subsystems.event_entry_point
-sys.fn_sqlagent_subsystems.max_worker_threads
-sys.fn_sqlagent_subsystems.start_entry_point
-sys.fn_sqlagent_subsystems.stop_entry_point
-sys.fn_sqlagent_subsystems.subsystem
-sys.fn_sqlagent_subsystems.subsystem_dll
-sys.fn_sqlagent_subsystems.subsystem_id

@@ -1,5 +1,0 @@
-sys.change_tracking_tables.begin_version
-sys.change_tracking_tables.cleanup_version
-sys.change_tracking_tables.is_track_columns_updated_on
-sys.change_tracking_tables.min_valid_version
-sys.change_tracking_tables.object_id

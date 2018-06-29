@@ -1,5 +1,0 @@
-sys.server_event_session_actions.event_id
-sys.server_event_session_actions.event_session_id
-sys.server_event_session_actions.module
-sys.server_event_session_actions.name
-sys.server_event_session_actions.package

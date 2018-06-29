@@ -1,7 +1,0 @@
-sys.sysconstraints.actions
-sys.sysconstraints.colid
-sys.sysconstraints.constid
-sys.sysconstraints.error
-sys.sysconstraints.id
-sys.sysconstraints.spare1
-sys.sysconstraints.status

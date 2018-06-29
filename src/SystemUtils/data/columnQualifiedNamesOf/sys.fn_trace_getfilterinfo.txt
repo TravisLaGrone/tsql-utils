@@ -1,4 +1,0 @@
-sys.fn_trace_getfilterinfo.columnid
-sys.fn_trace_getfilterinfo.comparison_operator
-sys.fn_trace_getfilterinfo.logical_operator
-sys.fn_trace_getfilterinfo.value

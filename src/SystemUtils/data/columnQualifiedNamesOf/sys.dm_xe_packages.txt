@@ -1,7 +1,0 @@
-sys.dm_xe_packages.capabilities
-sys.dm_xe_packages.capabilities_desc
-sys.dm_xe_packages.description
-sys.dm_xe_packages.guid
-sys.dm_xe_packages.module_address
-sys.dm_xe_packages.module_guid
-sys.dm_xe_packages.name

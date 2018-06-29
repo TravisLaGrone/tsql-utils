@@ -1,8 +1,0 @@
-sys.trigger_events.event_group_type
-sys.trigger_events.event_group_type_desc
-sys.trigger_events.is_first
-sys.trigger_events.is_last
-sys.trigger_events.is_trigger_event
-sys.trigger_events.object_id
-sys.trigger_events.type
-sys.trigger_events.type_desc

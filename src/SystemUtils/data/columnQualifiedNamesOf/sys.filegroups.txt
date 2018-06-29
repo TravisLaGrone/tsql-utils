@@ -1,9 +1,0 @@
-sys.filegroups.data_space_id
-sys.filegroups.filegroup_guid
-sys.filegroups.is_default
-sys.filegroups.is_read_only
-sys.filegroups.is_system
-sys.filegroups.log_filegroup_id
-sys.filegroups.name
-sys.filegroups.type
-sys.filegroups.type_desc

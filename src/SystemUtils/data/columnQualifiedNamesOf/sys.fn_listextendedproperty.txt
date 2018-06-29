@@ -1,4 +1,0 @@
-sys.fn_listextendedproperty.name
-sys.fn_listextendedproperty.objname
-sys.fn_listextendedproperty.objtype
-sys.fn_listextendedproperty.value

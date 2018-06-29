@@ -1,5 +1,0 @@
-sys.server_assembly_modules.assembly_class
-sys.server_assembly_modules.assembly_id
-sys.server_assembly_modules.assembly_method
-sys.server_assembly_modules.execute_as_principal_id
-sys.server_assembly_modules.object_id

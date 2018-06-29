@@ -1,6 +1,0 @@
-sys.spatial_reference_systems.authority_name
-sys.spatial_reference_systems.authorized_spatial_reference_id
-sys.spatial_reference_systems.spatial_reference_id
-sys.spatial_reference_systems.unit_conversion_factor
-sys.spatial_reference_systems.unit_of_measure
-sys.spatial_reference_systems.well_known_text

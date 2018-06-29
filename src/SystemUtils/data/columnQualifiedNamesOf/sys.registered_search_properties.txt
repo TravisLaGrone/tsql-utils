@@ -1,6 +1,0 @@
-sys.registered_search_properties.property_description
-sys.registered_search_properties.property_id
-sys.registered_search_properties.property_int_id
-sys.registered_search_properties.property_list_id
-sys.registered_search_properties.property_name
-sys.registered_search_properties.property_set_guid

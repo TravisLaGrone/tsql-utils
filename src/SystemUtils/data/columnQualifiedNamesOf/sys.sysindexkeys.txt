@@ -1,4 +1,0 @@
-sys.sysindexkeys.colid
-sys.sysindexkeys.id
-sys.sysindexkeys.indid
-sys.sysindexkeys.keyno

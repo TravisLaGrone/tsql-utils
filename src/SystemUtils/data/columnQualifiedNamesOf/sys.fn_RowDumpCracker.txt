@@ -1,8 +1,0 @@
-sys.fn_RowDumpCracker.colName
-sys.fn_RowDumpCracker.InRowLength
-sys.fn_RowDumpCracker.IsInrow
-sys.fn_RowDumpCracker.IsRecordPrefixCompressed
-sys.fn_RowDumpCracker.IsSparse
-sys.fn_RowDumpCracker.IsSymbol
-sys.fn_RowDumpCracker.partition_id
-sys.fn_RowDumpCracker.PrefixBytes

@@ -1,4 +1,0 @@
-sys.remote_logins.local_principal_id
-sys.remote_logins.modify_date
-sys.remote_logins.remote_name
-sys.remote_logins.server_id

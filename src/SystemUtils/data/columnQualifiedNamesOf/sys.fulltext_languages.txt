@@ -1,2 +1,0 @@
-sys.fulltext_languages.lcid
-sys.fulltext_languages.name

@@ -1,9 +1,0 @@
-sys.dm_audit_actions.action_id
-sys.dm_audit_actions.action_in_log
-sys.dm_audit_actions.class_desc
-sys.dm_audit_actions.configuration_level
-sys.dm_audit_actions.containing_group_name
-sys.dm_audit_actions.covering_action_name
-sys.dm_audit_actions.covering_parent_action_name
-sys.dm_audit_actions.name
-sys.dm_audit_actions.parent_class_desc

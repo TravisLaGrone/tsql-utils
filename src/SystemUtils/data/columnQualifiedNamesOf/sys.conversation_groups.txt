@@ -1,3 +1,0 @@
-sys.conversation_groups.conversation_group_id
-sys.conversation_groups.is_system
-sys.conversation_groups.service_id

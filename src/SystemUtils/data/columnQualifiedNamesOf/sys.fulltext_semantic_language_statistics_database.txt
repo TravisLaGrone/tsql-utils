@@ -1,4 +1,0 @@
-sys.fulltext_semantic_language_statistics_database.database_id
-sys.fulltext_semantic_language_statistics_database.register_date
-sys.fulltext_semantic_language_statistics_database.registered_by
-sys.fulltext_semantic_language_statistics_database.version

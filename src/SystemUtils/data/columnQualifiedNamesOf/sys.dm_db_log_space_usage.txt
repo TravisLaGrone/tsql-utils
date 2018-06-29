@@ -1,5 +1,0 @@
-sys.dm_db_log_space_usage.database_id
-sys.dm_db_log_space_usage.log_space_in_bytes_since_last_backup
-sys.dm_db_log_space_usage.total_log_size_in_bytes
-sys.dm_db_log_space_usage.used_log_space_in_bytes
-sys.dm_db_log_space_usage.used_log_space_in_percent

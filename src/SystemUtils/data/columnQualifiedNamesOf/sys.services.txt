@@ -1,4 +1,0 @@
-sys.services.name
-sys.services.principal_id
-sys.services.service_id
-sys.services.service_queue_id

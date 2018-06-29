@@ -1,6 +1,0 @@
-sys.xml_schema_facets.facet_id
-sys.xml_schema_facets.is_fixed
-sys.xml_schema_facets.kind
-sys.xml_schema_facets.kind_desc
-sys.xml_schema_facets.value
-sys.xml_schema_facets.xml_component_id

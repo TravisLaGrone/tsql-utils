@@ -1,8 +1,0 @@
-sys.dm_os_dispatcher_pools.dispatcher_count
-sys.dm_os_dispatcher_pools.dispatcher_ideal_count
-sys.dm_os_dispatcher_pools.dispatcher_pool_address
-sys.dm_os_dispatcher_pools.dispatcher_timeout_ms
-sys.dm_os_dispatcher_pools.dispatcher_waiting_count
-sys.dm_os_dispatcher_pools.name
-sys.dm_os_dispatcher_pools.queue_length
-sys.dm_os_dispatcher_pools.type

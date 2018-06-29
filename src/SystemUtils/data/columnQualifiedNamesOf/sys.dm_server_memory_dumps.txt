@@ -1,3 +1,0 @@
-sys.dm_server_memory_dumps.creation_time
-sys.dm_server_memory_dumps.filename
-sys.dm_server_memory_dumps.size_in_bytes

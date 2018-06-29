@@ -1,6 +1,0 @@
-sys.conversation_priorities.local_service_id
-sys.conversation_priorities.name
-sys.conversation_priorities.priority
-sys.conversation_priorities.priority_id
-sys.conversation_priorities.remote_service_name
-sys.conversation_priorities.service_contract_id

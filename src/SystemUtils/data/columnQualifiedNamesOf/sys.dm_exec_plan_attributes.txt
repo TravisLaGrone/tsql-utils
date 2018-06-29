@@ -1,3 +1,0 @@
-sys.dm_exec_plan_attributes.attribute
-sys.dm_exec_plan_attributes.is_cache_key
-sys.dm_exec_plan_attributes.value

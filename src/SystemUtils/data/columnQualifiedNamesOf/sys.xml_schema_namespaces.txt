@@ -1,3 +1,0 @@
-sys.xml_schema_namespaces.name
-sys.xml_schema_namespaces.xml_collection_id
-sys.xml_schema_namespaces.xml_namespace_id

@@ -1,6 +1,0 @@
-sys.availability_group_listeners.dns_name
-sys.availability_group_listeners.group_id
-sys.availability_group_listeners.ip_configuration_string_from_cluster
-sys.availability_group_listeners.is_conformant
-sys.availability_group_listeners.listener_id
-sys.availability_group_listeners.port

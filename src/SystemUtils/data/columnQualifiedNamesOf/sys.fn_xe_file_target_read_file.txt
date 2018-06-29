@@ -1,6 +1,0 @@
-sys.fn_xe_file_target_read_file.event_data
-sys.fn_xe_file_target_read_file.file_name
-sys.fn_xe_file_target_read_file.file_offset
-sys.fn_xe_file_target_read_file.module_guid
-sys.fn_xe_file_target_read_file.object_name
-sys.fn_xe_file_target_read_file.package_guid

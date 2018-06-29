@@ -1,7 +1,0 @@
-sys.server_event_session_events.event_id
-sys.server_event_session_events.event_session_id
-sys.server_event_session_events.module
-sys.server_event_session_events.name
-sys.server_event_session_events.package
-sys.server_event_session_events.predicate
-sys.server_event_session_events.predicate_xml

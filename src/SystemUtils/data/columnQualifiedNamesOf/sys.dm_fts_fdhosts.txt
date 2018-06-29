@@ -1,6 +1,0 @@
-sys.dm_fts_fdhosts.batch_count
-sys.dm_fts_fdhosts.fdhost_id
-sys.dm_fts_fdhosts.fdhost_name
-sys.dm_fts_fdhosts.fdhost_process_id
-sys.dm_fts_fdhosts.fdhost_type
-sys.dm_fts_fdhosts.max_thread

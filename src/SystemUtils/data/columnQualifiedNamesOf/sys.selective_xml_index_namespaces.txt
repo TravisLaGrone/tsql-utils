@@ -1,5 +1,0 @@
-sys.selective_xml_index_namespaces.index_id
-sys.selective_xml_index_namespaces.is_default_uri
-sys.selective_xml_index_namespaces.object_id
-sys.selective_xml_index_namespaces.prefix
-sys.selective_xml_index_namespaces.uri

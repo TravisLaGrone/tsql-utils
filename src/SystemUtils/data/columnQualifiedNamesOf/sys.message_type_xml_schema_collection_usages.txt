@@ -1,2 +1,0 @@
-sys.message_type_xml_schema_collection_usages.message_type_id
-sys.message_type_xml_schema_collection_usages.xml_collection_id

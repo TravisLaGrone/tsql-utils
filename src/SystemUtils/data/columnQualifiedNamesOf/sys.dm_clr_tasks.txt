@@ -1,8 +1,0 @@
-sys.dm_clr_tasks.abort_state
-sys.dm_clr_tasks.affinity_count
-sys.dm_clr_tasks.appdomain_address
-sys.dm_clr_tasks.forced_yield_count
-sys.dm_clr_tasks.sos_task_address
-sys.dm_clr_tasks.state
-sys.dm_clr_tasks.task_address
-sys.dm_clr_tasks.type

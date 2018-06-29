@@ -1,1 +1,0 @@
-sys.dm_tran_current_snapshot.transaction_sequence_num

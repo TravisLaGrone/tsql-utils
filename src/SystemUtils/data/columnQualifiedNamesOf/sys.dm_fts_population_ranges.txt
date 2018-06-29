@@ -1,6 +1,0 @@
-sys.dm_fts_population_ranges.error_count
-sys.dm_fts_population_ranges.is_retry
-sys.dm_fts_population_ranges.memory_address
-sys.dm_fts_population_ranges.parent_memory_address
-sys.dm_fts_population_ranges.processed_row_count
-sys.dm_fts_population_ranges.session_id

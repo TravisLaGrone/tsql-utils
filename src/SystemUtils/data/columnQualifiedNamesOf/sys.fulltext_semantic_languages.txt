@@ -1,2 +1,0 @@
-sys.fulltext_semantic_languages.lcid
-sys.fulltext_semantic_languages.name

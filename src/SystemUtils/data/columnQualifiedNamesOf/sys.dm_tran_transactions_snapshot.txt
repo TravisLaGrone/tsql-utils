@@ -1,3 +1,0 @@
-sys.dm_tran_transactions_snapshot.snapshot_id
-sys.dm_tran_transactions_snapshot.snapshot_sequence_num
-sys.dm_tran_transactions_snapshot.transaction_sequence_num

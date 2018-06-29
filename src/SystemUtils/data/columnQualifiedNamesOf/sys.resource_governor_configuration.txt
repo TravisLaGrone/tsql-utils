@@ -1,3 +1,0 @@
-sys.resource_governor_configuration.classifier_function_id
-sys.resource_governor_configuration.is_enabled
-sys.resource_governor_configuration.max_outstanding_io_per_volume

@@ -1,8 +1,0 @@
-sys.endpoint_webmethods.endpoint_id
-sys.endpoint_webmethods.method_alias
-sys.endpoint_webmethods.namespace
-sys.endpoint_webmethods.object_name
-sys.endpoint_webmethods.result_format
-sys.endpoint_webmethods.result_format_desc
-sys.endpoint_webmethods.result_schema
-sys.endpoint_webmethods.result_schema_desc

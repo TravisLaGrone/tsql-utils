@@ -1,6 +1,0 @@
-sys.database_audit_specifications.audit_guid
-sys.database_audit_specifications.create_date
-sys.database_audit_specifications.database_specification_id
-sys.database_audit_specifications.is_state_enabled
-sys.database_audit_specifications.modify_date
-sys.database_audit_specifications.name

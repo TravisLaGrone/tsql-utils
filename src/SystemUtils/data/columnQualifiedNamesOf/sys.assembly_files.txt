@@ -1,4 +1,0 @@
-sys.assembly_files.assembly_id
-sys.assembly_files.content
-sys.assembly_files.file_id
-sys.assembly_files.name

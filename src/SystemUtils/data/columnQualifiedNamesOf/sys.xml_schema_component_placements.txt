@@ -1,7 +1,0 @@
-sys.xml_schema_component_placements.default_value
-sys.xml_schema_component_placements.is_default_fixed
-sys.xml_schema_component_placements.max_occurences
-sys.xml_schema_component_placements.min_occurences
-sys.xml_schema_component_placements.placed_xml_component_id
-sys.xml_schema_component_placements.placement_id
-sys.xml_schema_component_placements.xml_component_id

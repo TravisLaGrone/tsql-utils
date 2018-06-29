@@ -1,4 +1,0 @@
-sys.sysfilegroups.allocpolicy
-sys.sysfilegroups.groupid
-sys.sysfilegroups.groupname
-sys.sysfilegroups.status
