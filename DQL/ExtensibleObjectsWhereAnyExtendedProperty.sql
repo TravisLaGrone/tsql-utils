@@ -18,9 +18,9 @@ WITH
         /* SCHEMA */
         SELECT
             [props].[name]
-        , [props].[value]
+        ,   [props].[value]
         ,   'SCHEMA'         AS [level0type]
-        , [schemas].[name]   AS [level0name]
+        ,   [schemas].[name]   AS [level0name]
         ,   NULL             AS [level1type]
         ,   NULL             AS [level1name]
         ,   NULL             AS [level2type]
@@ -35,7 +35,7 @@ WITH
         /* TABLE, VIEW, FUNCTION, PROCEDURE */
         SELECT
             [props].[name]
-        , [props].[value]
+        ,   [props].[value]
         ,   'SCHEMA'                        AS [level0type]
         ,   SCHEMA_NAME([objs].[schema_id]) AS [level0name]
         ,   CASE [objs].[type]
@@ -52,7 +52,7 @@ WITH
                 WHEN 'P' THEN
                     'PROCEDURE'
             END                             AS [level1type]
-        , [objs].[name]                   AS [level1name]
+        ,   [objs].[name]                   AS [level1name]
         ,   NULL                            AS [level2type]
         ,   NULL                            AS [level2name]
         ,   CASE [objs].[type]
@@ -80,7 +80,7 @@ WITH
         /* COLUMN */
         SELECT
             [props].[name]
-        , [props].[value]
+        ,   [props].[value]
         ,   'SCHEMA'                        AS [level0type]
         ,   SCHEMA_NAME([objs].[schema_id]) AS [level0name]
         ,   CASE [objs].[type]
@@ -95,9 +95,9 @@ WITH
                 WHEN 'P' THEN
                     'PROCEDURE'
             END                             AS [level1type]
-        , [objs].[name]                   AS [level1name]
+        ,   [objs].[name]                   AS [level1name]
         ,   'COLUMN'                        AS [level2type]
-        , [cols].[name]                   AS [level2name]
+        ,   [cols].[name]                   AS [level2name]
         ,   'COLUMN'                        AS [basetype]
         FROM [sys].[extended_properties] AS [props]
             INNER JOIN [sys].[columns]   AS [cols]
@@ -113,7 +113,7 @@ WITH
         /* PARAMETER */
         SELECT
             [props].[name]
-        , [props].[value]
+        ,   [props].[value]
         ,   'SCHEMA'                        AS [level0type]
         ,   SCHEMA_NAME([objs].[schema_id]) AS [level0name]
         ,   CASE [objs].[type]
@@ -126,9 +126,9 @@ WITH
                 WHEN 'P' THEN
                     'PROCEDURE'
             END                             AS [level1type]
-        , [objs].[name]                   AS [level1name]
+        ,   [objs].[name]                   AS [level1name]
         ,   'PARAMETER'                     AS [level2type]
-        , [params].[name]                 AS [level2name]
+        ,   [params].[name]                 AS [level2name]
         ,   'PARAMETER'                     AS [basetype]
         FROM [sys].[extended_properties]  AS [props]
             INNER JOIN [sys].[parameters] AS [params]
@@ -179,7 +179,7 @@ WITH
                 WHEN 'P' THEN
                     'PROCEDURE'
             END
-        , [name]
+        ,   [name]
         ,   NULL
         ,   NULL
         FROM [sys].[objects]
@@ -202,9 +202,9 @@ WITH
                 WHEN 'V' THEN
                     'VIEW'
             END
-        , [objs].[name]
+        ,   [objs].[name]
         ,   'COLUMN'
-        , [cols].[name]
+        ,   [cols].[name]
         FROM [sys].[columns]           AS [cols]
             INNER JOIN [sys].[objects] AS [objs]
                 ON [cols].[object_id] = [objs].[object_id]
@@ -225,9 +225,9 @@ WITH
                 WHEN 'P' THEN
                     'PROCEDURE'
             END
-        , [objs].[name]
+        ,   [objs].[name]
         ,   'PARAMETER'
-        , [params].[name]
+        ,   [params].[name]
         FROM [sys].[parameters]        AS [params]
             INNER JOIN [sys].[objects] AS [objs]
                 ON [params].[object_id] = [objs].[object_id]
