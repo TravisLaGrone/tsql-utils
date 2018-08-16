@@ -1,3 +1,8 @@
+/** Selects all databases, schemas, tables, views, T-SQL functions, T-SQL procedures
+ *  table/view columns, and T-SQL function/procedure parameters that allow extended properties,
+ *  as well as their extant extended properties (if any), within the current server context +
+ *  database context (if any).
+ */
 WITH
     [extended_properties] AS (
         /* DATABASE */
@@ -234,7 +239,12 @@ WITH
         WHERE [objs].[type] IN ('FN', 'IF', 'TF', 'P')
     )
 SELECT
-    eo.*,
+    eo.level0type,
+    eo.level0name,
+    eo.level1type,
+    eo.level1name,
+    eo.level2type,
+    eo.level2name,
     ep.[name],
     ep.[value],
     CASE

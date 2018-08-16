@@ -1,6 +1,3 @@
-:SetVar database_ "RNET93_DataDictionary"
-:SetVar schema_ "uaroperator"
-
 WITH
     referenced AS (
         SELECT
@@ -15,8 +12,7 @@ WITH
                 ON  obj.name = ref.referenced_entity_name
                 AND obj.schema_id = vw.schema_id
         WHERE
-            obj.type = 'V'  -- view
-            OR obj.type IN ('U', 'S', 'IT', 'ET', 'IF', 'TF', 'FT')  -- table or table-returning function
+            obj.type IN ('U', 'V')  -- user-defined table, view
     ),
     recursion AS (
         SELECT
