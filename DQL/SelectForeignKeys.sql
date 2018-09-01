@@ -1,27 +1,29 @@
 SELECT
-    s_fk.name AS [foreign_key_schema_name],
-    o_fk.name AS [foreign_key_name],
-    s_par.name AS [parent_object_schema_name],
-    o_par.name AS [parent_object_name],
-    s_ref.name AS [referenced_object_schema_name],
-    o_ref.name AS [referenced_object_name]
-FROM sys.foreign_keys AS fk
-    INNER JOIN sys.objects AS o_fk
-        ON o_fk.object_id = fk.object_id
-    INNER JOIN sys.schemas AS s_fk
-        ON s_fk.schema_id = o_fk.schema_id
-    INNER JOIN sys.objects AS o_par
-        ON o_par.object_id = fk.parent_object_id
-    INNER JOIN sys.schemas AS s_par
-        ON s_par.schema_id = o_par.schema_id
-    INNER JOIN sys.objects AS o_ref
-        ON o_ref.object_id = fk.referenced_object_id
-    INNER JOIN sys.schemas AS s_ref
-        ON s_ref.schema_id = o_ref.schema_id
-GROUP BY
-    s_fk.name,
-    o_fk.name,
-    s_par.name,
-    o_par.name,
-    s_ref.name,
-    o_ref.name
+    par_sch.[name] AS parent_schema_name,
+    par_obj.[name] AS parent_object_name,
+    par_col.[name] AS parent_column_name,
+    ref_sch.[name] AS referenced_schema_name,
+    ref_obj.[name] AS referenced_object_name,
+    ref_col.[name] AS referenced_column_name
+FROM sys.foreign_key_columns AS fkc
+    INNER JOIN sys.columns AS par_col
+        ON  par_col.[object_id] = fkc.parent_object_id
+        AND par_col.column_id = fkc.parent_column_id
+    INNER JOIN sys.objects AS par_obj
+        ON  par_obj.[object_id] = par_col.[object_id]
+    INNER JOIN sys.schemas AS par_sch
+        ON  par_sch.[schema_id] = par_obj.[schema_id]
+    INNER JOIN sys.columns AS ref_col
+        ON  ref_col.[object_id] = fkc.referenced_object_id
+        AND ref_col.column_id = fkc.referenced_column_id
+    INNER JOIN sys.objects AS ref_obj
+        ON  ref_obj.[object_id] = ref_col.[object_id]
+    INNER JOIN sys.schemas AS ref_sch
+        ON  ref_sch.[schema_id] = ref_obj.[schema_id]
+ORDER BY
+    par_sch.name,
+    par_obj.name,
+    par_col.name,
+    ref_sch.name,
+    ref_obj.name,
+    ref_col.name
